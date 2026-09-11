@@ -88,9 +88,7 @@ public class DeleteConversationAction extends Action implements Parcelable {
 
                 // We have changed the conversation list
                 MessagingContentProvider.notifyConversationListChanged();
-
-                // Notify the widget the conversation is deleted so it can go into its configure state.
-                        conversationId);
+conversationId);
             } else {
                 LogUtil.w(TAG, "DeleteConversationAction: Could not delete local conversation "
                         + conversationId);

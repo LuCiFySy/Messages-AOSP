@@ -490,16 +490,8 @@
     <string name="send_button_long_click_description_no_sim_selector" msgid="979624100711380593">"මාතෘකාව සකසන්න"</string>
     <string name="send_button_long_click_description_with_sim_selector" msgid="7670274457707760465">"SIM තෝරන්න හෝ මාතෘකාව සකසන්න"</string>
     <string name="audio_record_view_content_description" msgid="29401157183728655">"ශ්‍රව්‍ය පටිගත කිරීමට තට්ටු කර අල්ලා සිටින්න"</string>
-    <string name="widget_new_conversation_content_description" msgid="4214201569175733579">"අළුත් සංවාදයක් ආරම්භ කරන්න"</string>
-    <string name="widget_title_content_description" msgid="5802836840910466231">"පණිවිඩ යැවීම"</string>
-<string name="widget_new_message_content_description" msgid="2706347689522691188">"අලුත් පණිවිඩය"</string>
-<string name="loading_conversations" msgid="2890879017729068514">"සංවාද පුරණය වෙමින්"</string>
-    <string name="loading_messages" msgid="3894765818932489665">"පණිවුඩ පූරණය කරමින්"</string>
-    <string name="view_more_conversations" msgid="2430542054023217740">"තවත් සංවාද පෙන්වන්න"</string>
-    <string name="view_more_messages" msgid="6463224009407336178">"View more messages"</string>
-    <string name="conversation_deleted" msgid="6088388615460305424">"සංවාදය මකාදැමුණි"</string>
-    <string name="tap_to_configure" msgid="7591682335533041774">"සංවාදය මකන ලදී. වෙනස් පණිවිඩ යැවීමේ සංවාදයක් පෙන්වීමට ස්පර්ශ කරන්න"</string>
-    <string name="update_destination_blocked" msgid="4577227174205233981">"අවහිර කරන ලදි"</string>
+<string name="conversation_deleted" msgid="6088388615460305424">"සංවාදය මකාදැමුණි"</string>
+<string name="update_destination_blocked" msgid="4577227174205233981">"අවහිර කරන ලදි"</string>
     <string name="update_destination_unblocked" msgid="5369499874676600478">"අවහුර නොකළ"</string>
     <string name="db_full" msgid="8459265782521418031">"ගබඩා ඉඩ අවමයි. ඇතැම් දත්ත අහිමි වනු ඇත."</string>
     <string name="attachment_chooser_activity_title" msgid="4049093653421684774">"ඇමුණුම් තෝරන්න"</string>

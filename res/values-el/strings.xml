@@ -490,16 +490,8 @@
     <string name="send_button_long_click_description_no_sim_selector" msgid="979624100711380593">"Επεξεργασία θέματος"</string>
     <string name="send_button_long_click_description_with_sim_selector" msgid="7670274457707760465">"Επιλέξτε SIM ή επεξεργαστείτε το θέμα"</string>
     <string name="audio_record_view_content_description" msgid="29401157183728655">"Πατήστε παρατεταμένα για εγγραφή ήχου"</string>
-    <string name="widget_new_conversation_content_description" msgid="4214201569175733579">"Έναρξη νέας συνομιλίας"</string>
-    <string name="widget_title_content_description" msgid="5802836840910466231">"Ανταλλαγή μηνυμάτων"</string>
-<string name="widget_new_message_content_description" msgid="2706347689522691188">"Νέο μήνυμα"</string>
-<string name="loading_conversations" msgid="2890879017729068514">"Φόρτωση συνομιλιών"</string>
-    <string name="loading_messages" msgid="3894765818932489665">"Φόρτωση μηνυμάτων"</string>
-    <string name="view_more_conversations" msgid="2430542054023217740">"Προβολή περισσότερων συνομιλιών"</string>
-    <string name="view_more_messages" msgid="6463224009407336178">"Εμφάνιση περισσότερων μηνυμάτων"</string>
-    <string name="conversation_deleted" msgid="6088388615460305424">"Η συνομιλία διαγράφηκε"</string>
-    <string name="tap_to_configure" msgid="7591682335533041774">"Διαγραφή συνομιλίας. Αγγίξτε για να εμφανίσετε μια διαφορετική συνομιλία στην Ανταλλαγή μηνυμάτων"</string>
-    <string name="update_destination_blocked" msgid="4577227174205233981">"Αποκλείστηκε"</string>
+<string name="conversation_deleted" msgid="6088388615460305424">"Η συνομιλία διαγράφηκε"</string>
+<string name="update_destination_blocked" msgid="4577227174205233981">"Αποκλείστηκε"</string>
     <string name="update_destination_unblocked" msgid="5369499874676600478">"Ο αποκλεισμός καταργήθηκε"</string>
     <string name="db_full" msgid="8459265782521418031">"Ο αποθηκευτικός χώρος είναι περιορισμένος. Ορισμένα στοιχεία ενδέχεται να χαθούν."</string>
     <string name="attachment_chooser_activity_title" msgid="4049093653421684774">"Επιλέξτε συνημμένα"</string>

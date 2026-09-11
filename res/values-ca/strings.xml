@@ -490,16 +490,8 @@
     <string name="send_button_long_click_description_no_sim_selector" msgid="979624100711380593">"Edita l\'assumpte"</string>
     <string name="send_button_long_click_description_with_sim_selector" msgid="7670274457707760465">"Selecciona la SIM o edita l\'assumpte"</string>
     <string name="audio_record_view_content_description" msgid="29401157183728655">"Mantén premut per enregistrar àudio"</string>
-    <string name="widget_new_conversation_content_description" msgid="4214201569175733579">"Inicia una conversa nova"</string>
-    <string name="widget_title_content_description" msgid="5802836840910466231">"Missatges"</string>
-<string name="widget_new_message_content_description" msgid="2706347689522691188">"Missatge nou"</string>
-<string name="loading_conversations" msgid="2890879017729068514">"S\'estan carregant les converses"</string>
-    <string name="loading_messages" msgid="3894765818932489665">"S\'estan carregant els missatges"</string>
-    <string name="view_more_conversations" msgid="2430542054023217740">"Mostra més converses"</string>
-    <string name="view_more_messages" msgid="6463224009407336178">"Mostra més missatges"</string>
-    <string name="conversation_deleted" msgid="6088388615460305424">"S\'ha suprimit la conversa."</string>
-    <string name="tap_to_configure" msgid="7591682335533041774">"S\'ha suprimit la conversa. Toca per mostrar una altra conversa de Missatges"</string>
-    <string name="update_destination_blocked" msgid="4577227174205233981">"Bloquejat"</string>
+<string name="conversation_deleted" msgid="6088388615460305424">"S\'ha suprimit la conversa."</string>
+<string name="update_destination_blocked" msgid="4577227174205233981">"Bloquejat"</string>
     <string name="update_destination_unblocked" msgid="5369499874676600478">"Desbloquejat"</string>
     <string name="db_full" msgid="8459265782521418031">"Hi ha poc espai d\'emmagatzematge. És possible que es perdin algunes dades."</string>
     <string name="attachment_chooser_activity_title" msgid="4049093653421684774">"Selecciona els fitxers adjunts"</string>

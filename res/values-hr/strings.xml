@@ -516,16 +516,8 @@
     <string name="send_button_long_click_description_no_sim_selector" msgid="979624100711380593">"Uredi predmet"</string>
     <string name="send_button_long_click_description_with_sim_selector" msgid="7670274457707760465">"Odabir SIM-a ili uređivanje predmeta"</string>
     <string name="audio_record_view_content_description" msgid="29401157183728655">"Dodirnite i zadržite da biste snimili zvuk"</string>
-    <string name="widget_new_conversation_content_description" msgid="4214201569175733579">"Započnite novi razgovor"</string>
-    <string name="widget_title_content_description" msgid="5802836840910466231">"Slanje poruka"</string>
-<string name="widget_new_message_content_description" msgid="2706347689522691188">"Nova poruka"</string>
-<string name="loading_conversations" msgid="2890879017729068514">"Učitavanje razgovora"</string>
-    <string name="loading_messages" msgid="3894765818932489665">"Učitavanje poruka"</string>
-    <string name="view_more_conversations" msgid="2430542054023217740">"Prikaži više razgovora"</string>
-    <string name="view_more_messages" msgid="6463224009407336178">"Prikaži više poruka"</string>
-    <string name="conversation_deleted" msgid="6088388615460305424">"Razgovor je izbrisan"</string>
-    <string name="tap_to_configure" msgid="7591682335533041774">"Razgovor izbrisan. Dodirnite za prikaz drugog razgovora iz Slanja poruka"</string>
-    <string name="update_destination_blocked" msgid="4577227174205233981">"Blokirano"</string>
+<string name="conversation_deleted" msgid="6088388615460305424">"Razgovor je izbrisan"</string>
+<string name="update_destination_blocked" msgid="4577227174205233981">"Blokirano"</string>
     <string name="update_destination_unblocked" msgid="5369499874676600478">"Deblokirano"</string>
     <string name="db_full" msgid="8459265782521418031">"Nedostaje prostora za pohranu. Neki se podaci mogu izgubiti."</string>
     <string name="attachment_chooser_activity_title" msgid="4049093653421684774">"Odaberite privitke"</string>

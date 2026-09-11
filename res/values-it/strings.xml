@@ -490,16 +490,8 @@
     <string name="send_button_long_click_description_no_sim_selector" msgid="979624100711380593">"Modifica oggetto"</string>
     <string name="send_button_long_click_description_with_sim_selector" msgid="7670274457707760465">"Seleziona la SIM o modifica l\'oggetto"</string>
     <string name="audio_record_view_content_description" msgid="29401157183728655">"Tocca e tieni premuto per registrare l\'audio"</string>
-    <string name="widget_new_conversation_content_description" msgid="4214201569175733579">"Inizia nuova conversazione"</string>
-    <string name="widget_title_content_description" msgid="5802836840910466231">"Messaggi"</string>
-<string name="widget_new_message_content_description" msgid="2706347689522691188">"Nuovo messaggio"</string>
-<string name="loading_conversations" msgid="2890879017729068514">"Caricamento conversazioni..."</string>
-    <string name="loading_messages" msgid="3894765818932489665">"Caricamento dei messaggi in corso"</string>
-    <string name="view_more_conversations" msgid="2430542054023217740">"Visualizza altre conversazioni"</string>
-    <string name="view_more_messages" msgid="6463224009407336178">"Mostra altri messaggi"</string>
-    <string name="conversation_deleted" msgid="6088388615460305424">"Conversazione eliminata"</string>
-    <string name="tap_to_configure" msgid="7591682335533041774">"Conversazione eliminata. Tocca per vedere un\'altra conversazione di Messaggi"</string>
-    <string name="update_destination_blocked" msgid="4577227174205233981">"Bloccato"</string>
+<string name="conversation_deleted" msgid="6088388615460305424">"Conversazione eliminata"</string>
+<string name="update_destination_blocked" msgid="4577227174205233981">"Bloccato"</string>
     <string name="update_destination_unblocked" msgid="5369499874676600478">"Sbloccato"</string>
     <string name="db_full" msgid="8459265782521418031">"Lo spazio di archiviazione è quasi esaurito. Alcuni dati potrebbero andare perduti."</string>
     <string name="attachment_chooser_activity_title" msgid="4049093653421684774">"Seleziona allegati"</string>

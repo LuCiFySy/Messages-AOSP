@@ -490,16 +490,8 @@
     <string name="send_button_long_click_description_no_sim_selector" msgid="979624100711380593">"Redigera ämne"</string>
     <string name="send_button_long_click_description_with_sim_selector" msgid="7670274457707760465">"Välj SIM-kort eller redigera ämne"</string>
     <string name="audio_record_view_content_description" msgid="29401157183728655">"Tryck länge för att spela in ljud"</string>
-    <string name="widget_new_conversation_content_description" msgid="4214201569175733579">"Starta ny konversation"</string>
-    <string name="widget_title_content_description" msgid="5802836840910466231">"Meddelanden"</string>
-<string name="widget_new_message_content_description" msgid="2706347689522691188">"Nytt meddelande"</string>
-<string name="loading_conversations" msgid="2890879017729068514">"Konversationer hämtas"</string>
-    <string name="loading_messages" msgid="3894765818932489665">"Läser in meddelanden"</string>
-    <string name="view_more_conversations" msgid="2430542054023217740">"Visa fler konversationer"</string>
-    <string name="view_more_messages" msgid="6463224009407336178">"Visa fler meddelanden"</string>
-    <string name="conversation_deleted" msgid="6088388615460305424">"Konversationen har raderats"</string>
-    <string name="tap_to_configure" msgid="7591682335533041774">"Konversationen raderades. Tryck här om du vill visa en annan konversation i Meddelanden."</string>
-    <string name="update_destination_blocked" msgid="4577227174205233981">"Blockerad"</string>
+<string name="conversation_deleted" msgid="6088388615460305424">"Konversationen har raderats"</string>
+<string name="update_destination_blocked" msgid="4577227174205233981">"Blockerad"</string>
     <string name="update_destination_unblocked" msgid="5369499874676600478">"Återaktiverad"</string>
     <string name="db_full" msgid="8459265782521418031">"Lagringsutrymmet är nästan fullt. All data kanske inte sparas."</string>
     <string name="attachment_chooser_activity_title" msgid="4049093653421684774">"Välj bilagor"</string>

@@ -105,11 +105,7 @@ public class MessagingContentProvider extends ContentProvider {
         final Context context = Factory.get().getApplicationContext();
         final ContentResolver cr = context.getContentResolver();
         cr.notifyChange(uri, null);
-
-        // Notify any conversations widgets the conversation list has changed.
-
-        // Notify all conversation widgets to update.
-    }
+}
 
     /**
      * Build a participant uri from the conversation id.
@@ -180,9 +176,7 @@ public class MessagingContentProvider extends ContentProvider {
         final ContentResolver cr = context.getContentResolver();
         cr.notifyChange(uri, null);
         notifyConversationListChanged();
-
-        // Notify the widget the messages changed
-    }
+}
 
     /**
      * Build a conversation metadata uri from a conversation id.
@@ -209,9 +203,7 @@ public class MessagingContentProvider extends ContentProvider {
         final Context context = Factory.get().getApplicationContext();
         final ContentResolver cr = context.getContentResolver();
         cr.notifyChange(CONVERSATIONS_URI, null);
-
-        // Notify the widget the conversation list changed
-    }
+}
 
     /**
      * Build a conversation images uri from a conversation id.

@@ -76,11 +76,6 @@ public class DraftMessageData extends BindableData implements ReadDraftDataActio
     // Whether the self participant data has been loaded
     public static int SELF_CHANGED =             0x0008;
     public static int ALL_CHANGED =              0x00FF;
-    // ALL_CHANGED intentionally doesn't include WIDGET_CHANGED. ConversationFragment needs to
-    // be notified if the draft it is looking at is changed externally (by a desktop widget) so it
-    // can reload the draft.
-    public static int WIDGET_CHANGED  =          0x0100;
-
     private final String mConversationId;
     private ReadDraftDataActionMonitor mMonitor;
     private final DraftMessageDataEventDispatcher mListeners;
@@ -537,7 +532,6 @@ public class DraftMessageData extends BindableData implements ReadDraftDataActio
     /**
      * Remove the attachments from the draft and notify any listeners.
      * @param flags typically this will be ATTACHMENTS_CHANGED. When attachments are cleared in a
-     * widget, flags will also contain WIDGET_CHANGED.
      */
     public void clearAttachments(final int flags) {
         destroyAttachments();

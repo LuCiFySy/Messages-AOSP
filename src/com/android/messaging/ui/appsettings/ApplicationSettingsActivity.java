@@ -37,7 +37,6 @@ import android.view.MenuItem;
 
 import com.android.messaging.R;
 import com.android.messaging.ui.BugleActionBarActivity;
-import com.android.messaging.ui.LicenseActivity;
 import com.android.messaging.ui.UIIntents;
 import com.android.messaging.util.BuglePrefs;
 import com.android.messaging.util.DebugUtils;
@@ -76,11 +75,7 @@ public class ApplicationSettingsActivity extends BugleActionBarActivity {
         case android.R.id.home:
             NavUtils.navigateUpFromSameTask(this);
             return true;
-        case R.id.action_license:
-            final Intent intent = new Intent(this, LicenseActivity.class);
-            startActivity(intent);
-            return true;
-        }
+}
         return super.onOptionsItemSelected(item);
     }
 

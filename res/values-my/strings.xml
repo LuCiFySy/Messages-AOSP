@@ -490,16 +490,8 @@
     <string name="send_button_long_click_description_no_sim_selector" msgid="979624100711380593">"အကြောင်းအရာကို တည်းဖြတ်ပါ။"</string>
     <string name="send_button_long_click_description_with_sim_selector" msgid="7670274457707760465">"SIM ကို‌ရွေးချယ်ပါ သို့မဟုတ် အကြောင်းအရာတည်းဖြတ်ခြင်းကိုရွေးချယ်ပါ။"</string>
     <string name="audio_record_view_content_description" msgid="29401157183728655">"အသံအား ဖမ်းယူထားရန် ထိပြီးဖိထားပါ"</string>
-    <string name="widget_new_conversation_content_description" msgid="4214201569175733579">"ပြောဆိုမှု အသစ် စတင်ရန်"</string>
-    <string name="widget_title_content_description" msgid="5802836840910466231">"စာတိုပို့ခြင်း"</string>
-<string name="widget_new_message_content_description" msgid="2706347689522691188">"စာ အသစ်"</string>
-<string name="loading_conversations" msgid="2890879017729068514">"စကားဝိုင်းများကို ဖွင့်နေသည်"</string>
-    <string name="loading_messages" msgid="3894765818932489665">"စာများကို တင်နေ"</string>
-    <string name="view_more_conversations" msgid="2430542054023217740">"စကားပြောဆက်သွယ်မှုများကို ထပ်ပြီး ကြည့်မည်"</string>
-    <string name="view_more_messages" msgid="6463224009407336178">"နောက်ထပ် မက်ဆေ့များကြည့်ရန်"</string>
-    <string name="conversation_deleted" msgid="6088388615460305424">"စကားဝိုင်းကို ဖျက်လိုက်ပြီ"</string>
-    <string name="tap_to_configure" msgid="7591682335533041774">"ပြောဆိုမှုကို ဖျက်ခဲ့သည်။ အခြား စာတိုပို့ခြင်း ပြောဆိုမှုကို ပြရန် တို့ထိပါ။"</string>
-    <string name="update_destination_blocked" msgid="4577227174205233981">"ပိတ်ဆို့ထား"</string>
+<string name="conversation_deleted" msgid="6088388615460305424">"စကားဝိုင်းကို ဖျက်လိုက်ပြီ"</string>
+<string name="update_destination_blocked" msgid="4577227174205233981">"ပိတ်ဆို့ထား"</string>
     <string name="update_destination_unblocked" msgid="5369499874676600478">"ပြန်ဖွင့်ထားခြင်း"</string>
     <string name="db_full" msgid="8459265782521418031">"သိုလှောင်ထားသည့်နေရာ နည်းနေပါသည်။ ဒေတာတချို့ပျောက်ဆုံးပါလိမ့်မည်။"</string>
     <string name="attachment_chooser_activity_title" msgid="4049093653421684774">"ချိတ်တွဲမှုများ ရွေးချယ်မည်"</string>

@@ -490,16 +490,8 @@
     <string name="send_button_long_click_description_no_sim_selector" msgid="979624100711380593">"แก้ไขเรื่อง"</string>
     <string name="send_button_long_click_description_with_sim_selector" msgid="7670274457707760465">"เลือกซิมหรือแก้ไขเรื่อง"</string>
     <string name="audio_record_view_content_description" msgid="29401157183728655">"แตะค้างไว้เพื่อบันทึกเสียง"</string>
-    <string name="widget_new_conversation_content_description" msgid="4214201569175733579">"เริ่มต้นการสนทนาใหม่"</string>
-    <string name="widget_title_content_description" msgid="5802836840910466231">"การรับส่งข้อความ"</string>
-<string name="widget_new_message_content_description" msgid="2706347689522691188">"ข้อความใหม่"</string>
-<string name="loading_conversations" msgid="2890879017729068514">"กำลังโหลดการสนทนา"</string>
-    <string name="loading_messages" msgid="3894765818932489665">"กำลังโหลดข้อความ"</string>
-    <string name="view_more_conversations" msgid="2430542054023217740">"ดูการสนทนาเพิ่มเติม"</string>
-    <string name="view_more_messages" msgid="6463224009407336178">"ดูข้อความเพิ่มเติม"</string>
-    <string name="conversation_deleted" msgid="6088388615460305424">"ลบการสนทนาแล้ว"</string>
-    <string name="tap_to_configure" msgid="7591682335533041774">"ลบการสนทนาแล้ว แตะเพื่อแสดงการสนทนาอื่นๆ ในการรับส่งข้อความ"</string>
-    <string name="update_destination_blocked" msgid="4577227174205233981">"ถูกบล็อก"</string>
+<string name="conversation_deleted" msgid="6088388615460305424">"ลบการสนทนาแล้ว"</string>
+<string name="update_destination_blocked" msgid="4577227174205233981">"ถูกบล็อก"</string>
     <string name="update_destination_unblocked" msgid="5369499874676600478">"เลิกบล็อกแล้ว"</string>
     <string name="db_full" msgid="8459265782521418031">"พื้นที่เก็บข้อมูลเหลือน้อย ข้อมูลบางอย่างอาจสูญหายไป"</string>
     <string name="attachment_chooser_activity_title" msgid="4049093653421684774">"เลือกไฟล์แนบ"</string>

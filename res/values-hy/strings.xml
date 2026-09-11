@@ -490,16 +490,8 @@
     <string name="send_button_long_click_description_no_sim_selector" msgid="979624100711380593">"Խմբագրել վերնագիրը"</string>
     <string name="send_button_long_click_description_with_sim_selector" msgid="7670274457707760465">"Ընտրել SIM քարտ կամ խմբագրել վերնագիրը"</string>
     <string name="audio_record_view_content_description" msgid="29401157183728655">"Հպեք և պահեք՝ ձայնագրելու համար"</string>
-    <string name="widget_new_conversation_content_description" msgid="4214201569175733579">"Սկսել նոր խոսակցություն"</string>
-    <string name="widget_title_content_description" msgid="5802836840910466231">"Հաղորդակցում"</string>
-<string name="widget_new_message_content_description" msgid="2706347689522691188">"Նոր հաղորդագրություն"</string>
-<string name="loading_conversations" msgid="2890879017729068514">"Խոսակցությունները բեռնվում են"</string>
-    <string name="loading_messages" msgid="3894765818932489665">"Հաղորդագրությունների բեռնում"</string>
-    <string name="view_more_conversations" msgid="2430542054023217740">"Տեսնել այլ զրույցներ"</string>
-    <string name="view_more_messages" msgid="6463224009407336178">"Դիտել ավելի շատ հաղորդագրություններ"</string>
-    <string name="conversation_deleted" msgid="6088388615460305424">"Զրույցը ջնջված է"</string>
-    <string name="tap_to_configure" msgid="7591682335533041774">"Խոսակցությունը ջնջվել է: Հպեք՝ Հաղորդակցման մեջ այլ խոսակցություն դիտելու համար"</string>
-    <string name="update_destination_blocked" msgid="4577227174205233981">"Արգելափակված է"</string>
+<string name="conversation_deleted" msgid="6088388615460305424">"Զրույցը ջնջված է"</string>
+<string name="update_destination_blocked" msgid="4577227174205233981">"Արգելափակված է"</string>
     <string name="update_destination_unblocked" msgid="5369499874676600478">"Ապաարգելափակված է"</string>
     <string name="db_full" msgid="8459265782521418031">"Ազատ տարածքը բավարար չէ: Որոշ տվյալներ չեն պահվի:"</string>
     <string name="attachment_chooser_activity_title" msgid="4049093653421684774">"Ընտրել կցորդներ"</string>

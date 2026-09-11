@@ -490,16 +490,8 @@
     <string name="send_button_long_click_description_no_sim_selector" msgid="979624100711380593">"Wysig onderwerp"</string>
     <string name="send_button_long_click_description_with_sim_selector" msgid="7670274457707760465">"Kies SIM of wysig onderwerp"</string>
     <string name="audio_record_view_content_description" msgid="29401157183728655">"Raak en hou om oudio op te neem"</string>
-    <string name="widget_new_conversation_content_description" msgid="4214201569175733579">"Begin nuwe gesprek"</string>
-    <string name="widget_title_content_description" msgid="5802836840910466231">"Boodskappe"</string>
-<string name="widget_new_message_content_description" msgid="2706347689522691188">"Nuwe boodskap"</string>
-<string name="loading_conversations" msgid="2890879017729068514">"Laai tans gesprekke"</string>
-    <string name="loading_messages" msgid="3894765818932489665">"Laai tans boodskappe"</string>
-    <string name="view_more_conversations" msgid="2430542054023217740">"Bekyk nog gesprekke"</string>
-    <string name="view_more_messages" msgid="6463224009407336178">"Bekyk nog boodskappe"</string>
-    <string name="conversation_deleted" msgid="6088388615460305424">"Gesprek uitgevee"</string>
-    <string name="tap_to_configure" msgid="7591682335533041774">"Gesprek is uitgevee. Raak om \'n ander Boodskappe-gesprek te wys"</string>
-    <string name="update_destination_blocked" msgid="4577227174205233981">"Geblokkeer"</string>
+<string name="conversation_deleted" msgid="6088388615460305424">"Gesprek uitgevee"</string>
+<string name="update_destination_blocked" msgid="4577227174205233981">"Geblokkeer"</string>
     <string name="update_destination_unblocked" msgid="5369499874676600478">"Gedeblokkeer"</string>
     <string name="db_full" msgid="8459265782521418031">"Daar is min bergingspasie. Sommige data kan verloor word."</string>
     <string name="attachment_chooser_activity_title" msgid="4049093653421684774">"Kies aanhegsels"</string>

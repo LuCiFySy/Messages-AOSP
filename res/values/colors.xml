@@ -158,10 +158,6 @@
 
     <color name="contact_picker_button_text_color">@color/primary_color</color>
 
-    <color name="widget_text_color">#424242</color>
-    <color name="widget_incoming_text_color">@android:color/white</color>
-    <color name="widget_outgoing_text_color">#424242</color>
-    <color name="widget_background_color">#ffffff</color>
     <color name="ripple_material_light">#40000000</color>
 
     <color name="attachment_chooser_audio_background">#eeeeee</color>

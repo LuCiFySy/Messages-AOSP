@@ -490,16 +490,8 @@
     <string name="send_button_long_click_description_no_sim_selector" msgid="979624100711380593">"ርዕሰ ጉዳይ ያርትዑ"</string>
     <string name="send_button_long_click_description_with_sim_selector" msgid="7670274457707760465">"ሲም ይምረጡ ወይም ርዕሰ ጉዳይን ያርትዑ"</string>
     <string name="audio_record_view_content_description" msgid="29401157183728655">"ተሰሚን ለመቅረጽ ይንኩና ይያዙ"</string>
-    <string name="widget_new_conversation_content_description" msgid="4214201569175733579">"አዲስ ውይይት ጀምር"</string>
-    <string name="widget_title_content_description" msgid="5802836840910466231">"አላላክ"</string>
-<string name="widget_new_message_content_description" msgid="2706347689522691188">"አዲስ መልዕክት"</string>
-<string name="loading_conversations" msgid="2890879017729068514">"ውይይቶችን በመጫን ላይ"</string>
-    <string name="loading_messages" msgid="3894765818932489665">"መልዕክቶች በመስቀል ላይ"</string>
-    <string name="view_more_conversations" msgid="2430542054023217740">"ተጨማሪ ውይይቶችን ይመልከቱ"</string>
-    <string name="view_more_messages" msgid="6463224009407336178">"ተጨማሪ መልዕክቶችን አሳይ"</string>
-    <string name="conversation_deleted" msgid="6088388615460305424">"ውይይት ተሰርዟል"</string>
-    <string name="tap_to_configure" msgid="7591682335533041774">"ውይይት ተሰርዟል። የተለየ የአላላክ ውይይት ለማሳየት ይንኩ"</string>
-    <string name="update_destination_blocked" msgid="4577227174205233981">"ታግዷል"</string>
+<string name="conversation_deleted" msgid="6088388615460305424">"ውይይት ተሰርዟል"</string>
+<string name="update_destination_blocked" msgid="4577227174205233981">"ታግዷል"</string>
     <string name="update_destination_unblocked" msgid="5369499874676600478">"አልታገደም"</string>
     <string name="db_full" msgid="8459265782521418031">"የማከማቻ ቦታ ዝቅተኛ ነው። አንዳንድ ውሂብ ሊጠፋ ይችላል።"</string>
     <string name="attachment_chooser_activity_title" msgid="4049093653421684774">"ዓባሪዎችን ይምረጡ"</string>

@@ -490,16 +490,8 @@
     <string name="send_button_long_click_description_no_sim_selector" msgid="979624100711380593">"Badilisha kichwa"</string>
     <string name="send_button_long_click_description_with_sim_selector" msgid="7670274457707760465">"Chagua SIM au ubadilishe kichwa"</string>
     <string name="audio_record_view_content_description" msgid="29401157183728655">"Gusa na ushikilie ili urekodi sauti"</string>
-    <string name="widget_new_conversation_content_description" msgid="4214201569175733579">"Anzisha mazungumzo mapya"</string>
-    <string name="widget_title_content_description" msgid="5802836840910466231">"Ujumbe"</string>
-<string name="widget_new_message_content_description" msgid="2706347689522691188">"Ujumbe mpya"</string>
-<string name="loading_conversations" msgid="2890879017729068514">"Inapakia mazungumzo"</string>
-    <string name="loading_messages" msgid="3894765818932489665">"Inapakia ujumbe"</string>
-    <string name="view_more_conversations" msgid="2430542054023217740">"Tazama mazungumzo zaidi"</string>
-    <string name="view_more_messages" msgid="6463224009407336178">"Angalia ujumbe zaidi"</string>
-    <string name="conversation_deleted" msgid="6088388615460305424">"Mazungumzo yamefutwa"</string>
-    <string name="tap_to_configure" msgid="7591682335533041774">"Mazungumzo yamefutwa. Gusa ili uonyeshe mazungumzo tofauti ya programu ya Ujumbe"</string>
-    <string name="update_destination_blocked" msgid="4577227174205233981">"Amezuiwa"</string>
+<string name="conversation_deleted" msgid="6088388615460305424">"Mazungumzo yamefutwa"</string>
+<string name="update_destination_blocked" msgid="4577227174205233981">"Amezuiwa"</string>
     <string name="update_destination_unblocked" msgid="5369499874676600478">"Ameondolewa kizuizi"</string>
     <string name="db_full" msgid="8459265782521418031">"Nafasi ya hifadhi ni ndogo. Unaweza kupoteza baadhi ya data."</string>
     <string name="attachment_chooser_activity_title" msgid="4049093653421684774">"Chagua viambatisho"</string>

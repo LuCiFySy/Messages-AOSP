@@ -490,16 +490,8 @@
     <string name="send_button_long_click_description_no_sim_selector" msgid="979624100711380593">"件名を編集"</string>
     <string name="send_button_long_click_description_with_sim_selector" msgid="7670274457707760465">"SIMを選択するか件名を編集します"</string>
     <string name="audio_record_view_content_description" msgid="29401157183728655">"録音するには押し続けます"</string>
-    <string name="widget_new_conversation_content_description" msgid="4214201569175733579">"新しいスレッドを開始"</string>
-    <string name="widget_title_content_description" msgid="5802836840910466231">"SMS"</string>
-<string name="widget_new_message_content_description" msgid="2706347689522691188">"新しいメッセージ"</string>
-<string name="loading_conversations" msgid="2890879017729068514">"スレッドを読み込んでいます"</string>
-    <string name="loading_messages" msgid="3894765818932489665">"メールを読み込んでいます"</string>
-    <string name="view_more_conversations" msgid="2430542054023217740">"他のスレッドを見る"</string>
-    <string name="view_more_messages" msgid="6463224009407336178">"他のメールを見る"</string>
-    <string name="conversation_deleted" msgid="6088388615460305424">"スレッドを削除しました"</string>
-    <string name="tap_to_configure" msgid="7591682335533041774">"スレッドを削除しました。タップしてSMSの別のスレッドを表示します"</string>
-    <string name="update_destination_blocked" msgid="4577227174205233981">"ブロックしました"</string>
+<string name="conversation_deleted" msgid="6088388615460305424">"スレッドを削除しました"</string>
+<string name="update_destination_blocked" msgid="4577227174205233981">"ブロックしました"</string>
     <string name="update_destination_unblocked" msgid="5369499874676600478">"ブロックを解除しました"</string>
     <string name="db_full" msgid="8459265782521418031">"空き容量が少なくなっています。一部のデータが失われる可能性があります。"</string>
     <string name="attachment_chooser_activity_title" msgid="4049093653421684774">"添付ファイルの選択"</string>

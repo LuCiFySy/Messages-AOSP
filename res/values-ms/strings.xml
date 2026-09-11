@@ -490,16 +490,8 @@
     <string name="send_button_long_click_description_no_sim_selector" msgid="979624100711380593">"Edit subjek"</string>
     <string name="send_button_long_click_description_with_sim_selector" msgid="7670274457707760465">"Pilih SIM atau edit subjek"</string>
     <string name="audio_record_view_content_description" msgid="29401157183728655">"Sentuh dan tahan untuk merakam audio"</string>
-    <string name="widget_new_conversation_content_description" msgid="4214201569175733579">"Mulakan perbualan baharu"</string>
-    <string name="widget_title_content_description" msgid="5802836840910466231">"Pemesejan"</string>
-<string name="widget_new_message_content_description" msgid="2706347689522691188">"Mesej baharu"</string>
-<string name="loading_conversations" msgid="2890879017729068514">"Memuatkan perbualan"</string>
-    <string name="loading_messages" msgid="3894765818932489665">"Memuatkan mesej"</string>
-    <string name="view_more_conversations" msgid="2430542054023217740">"Lihat lagi perbualan"</string>
-    <string name="view_more_messages" msgid="6463224009407336178">"Lihat pesanan lagi"</string>
-    <string name="conversation_deleted" msgid="6088388615460305424">"Perbualan dipadamkan"</string>
-    <string name="tap_to_configure" msgid="7591682335533041774">"Perbualan dipadamkan. Sentuh untuk menunjukkan perbualan Pemesejan yang lain"</string>
-    <string name="update_destination_blocked" msgid="4577227174205233981">"Disekat"</string>
+<string name="conversation_deleted" msgid="6088388615460305424">"Perbualan dipadamkan"</string>
+<string name="update_destination_blocked" msgid="4577227174205233981">"Disekat"</string>
     <string name="update_destination_unblocked" msgid="5369499874676600478">"Dinyahsekat"</string>
     <string name="db_full" msgid="8459265782521418031">"Ruang storan rendah. Sesetengah data mungkin hilang."</string>
     <string name="attachment_chooser_activity_title" msgid="4049093653421684774">"Pilih lampiran"</string>

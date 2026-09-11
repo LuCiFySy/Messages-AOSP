@@ -490,16 +490,8 @@
     <string name="send_button_long_click_description_no_sim_selector" msgid="979624100711380593">"ವಿಷಯವನ್ನು ಸಂಪಾದಿಸಿ"</string>
     <string name="send_button_long_click_description_with_sim_selector" msgid="7670274457707760465">"ಸಿಮ್ ಆಯ್ಕೆ ಮಾಡಿ ಅಥವಾ ವಿಷಯ ಸಂಪಾದಿಸಿ"</string>
     <string name="audio_record_view_content_description" msgid="29401157183728655">"ಆಡಿಯೋ ಅನ್ನು ರೆಕಾರ್ಡ್ ಮಾಡಲು ಸ್ಪರ್ಶಿಸಿ ಮತ್ತು ಹಿಡಿದುಕೊಳ್ಳಿ"</string>
-    <string name="widget_new_conversation_content_description" msgid="4214201569175733579">"ಹೊಸ ಸಂವಾದವನ್ನು ಪ್ರಾರಂಭಿಸಿ"</string>
-    <string name="widget_title_content_description" msgid="5802836840910466231">"ಸಂದೇಶ ಕಳುಹಿಸುವಿಕೆ"</string>
-<string name="widget_new_message_content_description" msgid="2706347689522691188">"ಹೊಸ ಸಂದೇಶ"</string>
-<string name="loading_conversations" msgid="2890879017729068514">"ಸಂವಾದಗಳನ್ನು ಲೋಡ್‌ ಮಾಡಲಾಗುತ್ತಿದೆ"</string>
-    <string name="loading_messages" msgid="3894765818932489665">"ಸಂದೇಶಗಳನ್ನು ಲೋಡ್ ಮಾಡಲಾಗುತ್ತಿದೆ"</string>
-    <string name="view_more_conversations" msgid="2430542054023217740">"ಇನ್ನಷ್ಟು ಸಂವಾದಗಳನ್ನು ವೀಕ್ಷಿಸಿ"</string>
-    <string name="view_more_messages" msgid="6463224009407336178">"ಹೆಚ್ಚಿನ ಸಂದೇಶಗಳನ್ನು ವೀಕ್ಷಿಸಿ"</string>
-    <string name="conversation_deleted" msgid="6088388615460305424">"ಸಂವಾದವನ್ನು ಅಳಿಸಲಾಗಿದೆ"</string>
-    <string name="tap_to_configure" msgid="7591682335533041774">"ಸಂಭಾಷಣೆಯನ್ನು ಅಳಿಸಲಾಗಿದೆ. ಬೇರೆ ಸಂದೇಶ ಕಳುಹಿಸುವಿಕೆ ಸಂಭಾಷಣೆಯನ್ನು ತೋರಿಸಲು ಸ್ಪರ್ಶಿಸಿ"</string>
-    <string name="update_destination_blocked" msgid="4577227174205233981">"ನಿರ್ಬಂಧಿಸಲಾಗಿದೆ"</string>
+<string name="conversation_deleted" msgid="6088388615460305424">"ಸಂವಾದವನ್ನು ಅಳಿಸಲಾಗಿದೆ"</string>
+<string name="update_destination_blocked" msgid="4577227174205233981">"ನಿರ್ಬಂಧಿಸಲಾಗಿದೆ"</string>
     <string name="update_destination_unblocked" msgid="5369499874676600478">"ಅನಿರ್ಬಂಧಿಸಲಾಗಿದೆ"</string>
     <string name="db_full" msgid="8459265782521418031">"ಸಂಗ್ರಹಣೆ ಸ್ಥಳಾವಕಾಶವು ಕಡಿಮೆ ಇದೆ. ಕೆಲವು ಡೇಟಾ ನಷ್ಟವಾಗಬಹುದು."</string>
     <string name="attachment_chooser_activity_title" msgid="4049093653421684774">"ಲಗತ್ತುಗಳನ್ನು ಆಯ್ಕೆಮಾಡಿ"</string>

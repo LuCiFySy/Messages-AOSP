@@ -490,16 +490,8 @@
     <string name="send_button_long_click_description_no_sim_selector" msgid="979624100711380593">"제목 수정"</string>
     <string name="send_button_long_click_description_with_sim_selector" msgid="7670274457707760465">"SIM 선택 또는 제목 수정"</string>
     <string name="audio_record_view_content_description" msgid="29401157183728655">"길게 눌러 오디오 녹음"</string>
-    <string name="widget_new_conversation_content_description" msgid="4214201569175733579">"새로운 대화 시작"</string>
-    <string name="widget_title_content_description" msgid="5802836840910466231">"메시지"</string>
-<string name="widget_new_message_content_description" msgid="2706347689522691188">"새 메시지"</string>
-<string name="loading_conversations" msgid="2890879017729068514">"대화 로드 중"</string>
-    <string name="loading_messages" msgid="3894765818932489665">"메시지 로드 중"</string>
-    <string name="view_more_conversations" msgid="2430542054023217740">"대화 더보기"</string>
-    <string name="view_more_messages" msgid="6463224009407336178">"메시지 더보기"</string>
-    <string name="conversation_deleted" msgid="6088388615460305424">"대화를 삭제함"</string>
-    <string name="tap_to_configure" msgid="7591682335533041774">"대화가 삭제되었습니다. 다른 메시지 대화를 표시하려면 터치하세요."</string>
-    <string name="update_destination_blocked" msgid="4577227174205233981">"차단됨"</string>
+<string name="conversation_deleted" msgid="6088388615460305424">"대화를 삭제함"</string>
+<string name="update_destination_blocked" msgid="4577227174205233981">"차단됨"</string>
     <string name="update_destination_unblocked" msgid="5369499874676600478">"차단 해제됨"</string>
     <string name="db_full" msgid="8459265782521418031">"저장공간이 충분하지 않아 일부 데이터가 저장되지 않을 수 있습니다."</string>
     <string name="attachment_chooser_activity_title" msgid="4049093653421684774">"첨부파일 선택"</string>

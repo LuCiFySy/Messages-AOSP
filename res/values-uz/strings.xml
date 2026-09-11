@@ -490,16 +490,8 @@
     <string name="send_button_long_click_description_no_sim_selector" msgid="979624100711380593">"Mavzuni tahrirlash"</string>
     <string name="send_button_long_click_description_with_sim_selector" msgid="7670274457707760465">"SIM kartani tanlang yoki mavzuni tahrirlang"</string>
     <string name="audio_record_view_content_description" msgid="29401157183728655">"Audio yozib olish uchun bosib turing"</string>
-    <string name="widget_new_conversation_content_description" msgid="4214201569175733579">"Yangi suhbat boshlash"</string>
-    <string name="widget_title_content_description" msgid="5802836840910466231">"SMS/MMS"</string>
-<string name="widget_new_message_content_description" msgid="2706347689522691188">"Yangi xabar"</string>
-<string name="loading_conversations" msgid="2890879017729068514">"Suhbatlar yuklanmoqda"</string>
-    <string name="loading_messages" msgid="3894765818932489665">"Xabarlar yuklanmoqda"</string>
-    <string name="view_more_conversations" msgid="2430542054023217740">"Ko‘proq suhbatlarni ko‘rish"</string>
-    <string name="view_more_messages" msgid="6463224009407336178">"Boshqa xabarlarni ko‘rish"</string>
-    <string name="conversation_deleted" msgid="6088388615460305424">"Suhbat o‘chirib tashlandi"</string>
-    <string name="tap_to_configure" msgid="7591682335533041774">"Suhbat o‘chirib tashlandi. SMS/MMS xizmatidagi boshqa suhbatni ko‘rish uchun bosing."</string>
-    <string name="update_destination_blocked" msgid="4577227174205233981">"Bloklandi"</string>
+<string name="conversation_deleted" msgid="6088388615460305424">"Suhbat o‘chirib tashlandi"</string>
+<string name="update_destination_blocked" msgid="4577227174205233981">"Bloklandi"</string>
     <string name="update_destination_unblocked" msgid="5369499874676600478">"Blokdan chiqarildi"</string>
     <string name="db_full" msgid="8459265782521418031">"Xotirada joy kam qoldi. Ba’zi ma’lumotlar saqlanmasligi mumkin."</string>
     <string name="attachment_chooser_activity_title" msgid="4049093653421684774">"Biriktirmalarni tanlash"</string>

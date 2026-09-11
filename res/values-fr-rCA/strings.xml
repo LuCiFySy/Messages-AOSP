@@ -490,16 +490,8 @@
     <string name="send_button_long_click_description_no_sim_selector" msgid="979624100711380593">"Modifier l\'objet"</string>
     <string name="send_button_long_click_description_with_sim_selector" msgid="7670274457707760465">"Sélectionner une carte SIM ou modifier l\'objet"</string>
     <string name="audio_record_view_content_description" msgid="29401157183728655">"Maintenez le doigt sur le bouton pour enregistrer des contenus audio"</string>
-    <string name="widget_new_conversation_content_description" msgid="4214201569175733579">"Commencer une nouvelle discussion"</string>
-    <string name="widget_title_content_description" msgid="5802836840910466231">"Messagerie"</string>
-<string name="widget_new_message_content_description" msgid="2706347689522691188">"Nouveau message"</string>
-<string name="loading_conversations" msgid="2890879017729068514">"Chargement des conversations en cours..."</string>
-    <string name="loading_messages" msgid="3894765818932489665">"Messages en cours de chargement…"</string>
-    <string name="view_more_conversations" msgid="2430542054023217740">"Afficher plus de conversations"</string>
-    <string name="view_more_messages" msgid="6463224009407336178">"Voir plus de messages"</string>
-    <string name="conversation_deleted" msgid="6088388615460305424">"Conversation supprimée"</string>
-    <string name="tap_to_configure" msgid="7591682335533041774">"La conversation a été supprimée. Touchez pour afficher une autre conversation dans Messagerie."</string>
-    <string name="update_destination_blocked" msgid="4577227174205233981">"Bloqué"</string>
+<string name="conversation_deleted" msgid="6088388615460305424">"Conversation supprimée"</string>
+<string name="update_destination_blocked" msgid="4577227174205233981">"Bloqué"</string>
     <string name="update_destination_unblocked" msgid="5369499874676600478">"Débloqué"</string>
     <string name="db_full" msgid="8459265782521418031">"L\'espace de stockage est faible. Vous risquez de perdre certaines données."</string>
     <string name="attachment_chooser_activity_title" msgid="4049093653421684774">"Sélectionner les pièces jointes"</string>

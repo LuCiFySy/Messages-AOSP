@@ -542,16 +542,8 @@
     <string name="send_button_long_click_description_no_sim_selector" msgid="979624100711380593">"Upraviť predmet"</string>
     <string name="send_button_long_click_description_with_sim_selector" msgid="7670274457707760465">"Vybrať SIM kartu alebo upraviť predmet"</string>
     <string name="audio_record_view_content_description" msgid="29401157183728655">"Zvuk zaznamenáte klepnutím a podržaním"</string>
-    <string name="widget_new_conversation_content_description" msgid="4214201569175733579">"Začať novú konverzáciu"</string>
-    <string name="widget_title_content_description" msgid="5802836840910466231">"SMS a MMS"</string>
-<string name="widget_new_message_content_description" msgid="2706347689522691188">"Nová správa"</string>
-<string name="loading_conversations" msgid="2890879017729068514">"Načítavajú sa konverzácie..."</string>
-    <string name="loading_messages" msgid="3894765818932489665">"Načítavajú sa správy"</string>
-    <string name="view_more_conversations" msgid="2430542054023217740">"Zobraziť ďalšie konverzácie"</string>
-    <string name="view_more_messages" msgid="6463224009407336178">"Zobraziť viac správ"</string>
-    <string name="conversation_deleted" msgid="6088388615460305424">"Konverzácia bola odstránená"</string>
-    <string name="tap_to_configure" msgid="7591682335533041774">"Konverzácia bola odstránená. Klepnutím si zobrazte inú konverzáciu aplikácie SMS a MMS."</string>
-    <string name="update_destination_blocked" msgid="4577227174205233981">"Zablokované"</string>
+<string name="conversation_deleted" msgid="6088388615460305424">"Konverzácia bola odstránená"</string>
+<string name="update_destination_blocked" msgid="4577227174205233981">"Zablokované"</string>
     <string name="update_destination_unblocked" msgid="5369499874676600478">"Odblokované"</string>
     <string name="db_full" msgid="8459265782521418031">"V úložisku je málo miesta. Niektoré údaje môžu byť stratené."</string>
     <string name="attachment_chooser_activity_title" msgid="4049093653421684774">"Vybrať prílohy"</string>

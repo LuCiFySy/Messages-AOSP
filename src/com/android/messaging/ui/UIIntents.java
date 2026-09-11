@@ -59,10 +59,6 @@ public abstract class UIIntents {
 
     // Sending class zero message to its activity
     public static final String UI_INTENT_EXTRA_MESSAGE_VALUES = "message_values";
-
-    // For the widget to go to the ConversationList from the Conversation.
-    public static final String UI_INTENT_EXTRA_GOTO_CONVERSATION_LIST = "goto_conv_list";
-
     // Indicates whether a conversation is launched with custom transition.
     public static final String UI_INTENT_EXTRA_WITH_CUSTOM_TRANSITION = "with_custom_transition";
 
@@ -292,13 +288,6 @@ public abstract class UIIntents {
      */
     public abstract PendingIntent getPendingIntentForConversationListActivity(
             final Context context);
-
-    /**
-     * Get a PendingIntent for starting conversation list from widget.
-     */
-    public abstract PendingIntent getWidgetPendingIntentForConversationListActivity(
-            final Context context);
-
     /**
      * Get a PendingIntent for showing a conversation from notifications.
      */

@@ -490,16 +490,8 @@
     <string name="send_button_long_click_description_no_sim_selector" msgid="979624100711380593">"Editatu gaia"</string>
     <string name="send_button_long_click_description_with_sim_selector" msgid="7670274457707760465">"Hautatu SIM txartela edo editatu gaia"</string>
     <string name="audio_record_view_content_description" msgid="29401157183728655">"Eduki sakatuta audioa grabatzeko"</string>
-    <string name="widget_new_conversation_content_description" msgid="4214201569175733579">"Hasi elkarrizketa bat"</string>
-    <string name="widget_title_content_description" msgid="5802836840910466231">"Mezuak"</string>
-<string name="widget_new_message_content_description" msgid="2706347689522691188">"Mezu berria"</string>
-<string name="loading_conversations" msgid="2890879017729068514">"Elkarrizketak kargatzen"</string>
-    <string name="loading_messages" msgid="3894765818932489665">"Mezuak kargatzen"</string>
-    <string name="view_more_conversations" msgid="2430542054023217740">"Ikusi elkarrizketa gehiago"</string>
-    <string name="view_more_messages" msgid="6463224009407336178">"Ikusi mezu gehiago"</string>
-    <string name="conversation_deleted" msgid="6088388615460305424">"Elkarrizketa ezabatu egin da"</string>
-    <string name="tap_to_configure" msgid="7591682335533041774">"Ezabatu egin da elkarrizketa. Ukitu hau Mezuak aplikazioko beste elkarrizketa bat erakusteko."</string>
-    <string name="update_destination_blocked" msgid="4577227174205233981">"Blokeatu da"</string>
+<string name="conversation_deleted" msgid="6088388615460305424">"Elkarrizketa ezabatu egin da"</string>
+<string name="update_destination_blocked" msgid="4577227174205233981">"Blokeatu da"</string>
     <string name="update_destination_unblocked" msgid="5369499874676600478">"Desblokeatu da"</string>
     <string name="db_full" msgid="8459265782521418031">"Toki gutxi geratzen da. Agian ez dira gordeko datu batzuk."</string>
     <string name="attachment_chooser_activity_title" msgid="4049093653421684774">"Hautatu eranskinak"</string>

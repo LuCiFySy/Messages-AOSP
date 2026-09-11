@@ -492,16 +492,8 @@
     <string name="send_button_long_click_description_no_sim_selector" msgid="979624100711380593">"विषय सम्पादन गर्नुहोस्"</string>
     <string name="send_button_long_click_description_with_sim_selector" msgid="7670274457707760465">"सिम चयन गर्नुहोस् वा विषय सम्पादन गर्नुहोस्"</string>
     <string name="audio_record_view_content_description" msgid="29401157183728655">"अडियो रेकर्ड गर्न छुनुहोस् र होल्ड गर्नुहोस्"</string>
-    <string name="widget_new_conversation_content_description" msgid="4214201569175733579">"नयाँ कुराकानी सुरू गर्नुहोस्"</string>
-    <string name="widget_title_content_description" msgid="5802836840910466231">"सन्देश प्रवाह"</string>
-<string name="widget_new_message_content_description" msgid="2706347689522691188">"नयाँ सन्देश"</string>
-<string name="loading_conversations" msgid="2890879017729068514">"कुराकानीहरू लोड हुँदै..."</string>
-    <string name="loading_messages" msgid="3894765818932489665">"सन्देशहरू लोड हुँदै"</string>
-    <string name="view_more_conversations" msgid="2430542054023217740">"थप कुराकानीहरू हेर्नुहोस्"</string>
-    <string name="view_more_messages" msgid="6463224009407336178">"थप सन्देशहरू हेर्नुहोस्"</string>
-    <string name="conversation_deleted" msgid="6088388615460305424">"कुराकानी मेटिएको छ"</string>
-    <string name="tap_to_configure" msgid="7591682335533041774">"वार्तालाप मेटियो। एउटा फरक सन्देश प्रवाह वार्तालाप देखाउन छुनुहोस्"</string>
-    <string name="update_destination_blocked" msgid="4577227174205233981">"अवरूद्ध गरियो"</string>
+<string name="conversation_deleted" msgid="6088388615460305424">"कुराकानी मेटिएको छ"</string>
+<string name="update_destination_blocked" msgid="4577227174205233981">"अवरूद्ध गरियो"</string>
     <string name="update_destination_unblocked" msgid="5369499874676600478">"अवरोध हटाइयो"</string>
     <string name="db_full" msgid="8459265782521418031">"भण्डारण ठाउँ कम छ। केही डाटा हराउन सक्छ।"</string>
     <string name="attachment_chooser_activity_title" msgid="4049093653421684774">"संलग्नकहरू चयन गर्नुहोस्"</string>

@@ -71,20 +71,6 @@ public class ConversationActivity extends BugleActionBarActivity
         if (savedInstanceState != null) {
             mUiState = savedInstanceState.getParcelable(SAVED_INSTANCE_STATE_UI_STATE_KEY);
         } else {
-            if (intent.
-                    getBooleanExtra(UIIntents.UI_INTENT_EXTRA_GOTO_CONVERSATION_LIST, false)) {
-                // is unfortunately necessary. The Bugle desktop widget can display a list of
-                // conversations. When there are more conversations that can be displayed in
-                // the widget, the last item is a "More conversations" item. The way widgets
-                // are built, the list items can only go to a single fill-in intent which points
-                // to this ConversationActivity. When the user taps on "More conversations", we
-                // really want to go to the ConversationList. This code makes that possible.
-                finish();
-                final Intent convListIntent = new Intent(this, ConversationListActivity.class);
-                convListIntent.setFlags(Intent.FLAG_ACTIVITY_CLEAR_TOP);
-                startActivity(convListIntent);
-                return;
-            }
         }
 
         // If saved instance state doesn't offer a clue, get the info from the intent.

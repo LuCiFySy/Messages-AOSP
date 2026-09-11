@@ -1647,13 +1647,7 @@ public class ConversationFragment extends Fragment implements ConversationDataLi
     @Override
     public void onDraftChanged(final DraftMessageData data, final int changeFlags) {
         mDraftMessageDataModel.ensureBound(data);
-        // We're specifically only interested in ATTACHMENTS_CHANGED from the widget. Ignore
-        // other changes. When the widget changes an attachment, we need to reload the draft.
-        if (changeFlags ==
-                (DraftMessageData.WIDGET_CHANGED | DraftMessageData.ATTACHMENTS_CHANGED)) {
-            mClearLocalDraft = true;        // force a reload of the draft in onResume
-        }
-    }
+}
 
     @Override
     public void onDraftAttachmentLimitReached(final DraftMessageData data) {

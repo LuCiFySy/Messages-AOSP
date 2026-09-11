@@ -516,16 +516,8 @@
     <string name="send_button_long_click_description_no_sim_selector" msgid="979624100711380593">"Измени наслов"</string>
     <string name="send_button_long_click_description_with_sim_selector" msgid="7670274457707760465">"Изабери SIM или измени наслов"</string>
     <string name="audio_record_view_content_description" msgid="29401157183728655">"Додирните и задржите за снимање звука"</string>
-    <string name="widget_new_conversation_content_description" msgid="4214201569175733579">"Започни нову конверзацију"</string>
-    <string name="widget_title_content_description" msgid="5802836840910466231">"Размена порука"</string>
-<string name="widget_new_message_content_description" msgid="2706347689522691188">"Нова порука"</string>
-<string name="loading_conversations" msgid="2890879017729068514">"Учитавају се конверзације"</string>
-    <string name="loading_messages" msgid="3894765818932489665">"Учитавају се поруке"</string>
-    <string name="view_more_conversations" msgid="2430542054023217740">"Прикажи још конверзација"</string>
-    <string name="view_more_messages" msgid="6463224009407336178">"Прикажи још порука"</string>
-    <string name="conversation_deleted" msgid="6088388615460305424">"Конверзација је избрисана"</string>
-    <string name="tap_to_configure" msgid="7591682335533041774">"Конверзација је избрисана. Додирните да бисте приказали неку другу конверзацију Размене порука"</string>
-    <string name="update_destination_blocked" msgid="4577227174205233981">"Блокирано"</string>
+<string name="conversation_deleted" msgid="6088388615460305424">"Конверзација је избрисана"</string>
+<string name="update_destination_blocked" msgid="4577227174205233981">"Блокирано"</string>
     <string name="update_destination_unblocked" msgid="5369499874676600478">"Деблокирано"</string>
     <string name="db_full" msgid="8459265782521418031">"Нема довољно меморијског простора. Неки подаци ће можда бити изгубљени."</string>
     <string name="attachment_chooser_activity_title" msgid="4049093653421684774">"Изабери прилоге"</string>

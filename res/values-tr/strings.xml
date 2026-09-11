@@ -490,16 +490,8 @@
     <string name="send_button_long_click_description_no_sim_selector" msgid="979624100711380593">"Konuyu düzenle"</string>
     <string name="send_button_long_click_description_with_sim_selector" msgid="7670274457707760465">"SIM seçin veya konuyu düzenleyin"</string>
     <string name="audio_record_view_content_description" msgid="29401157183728655">"Ses kaydetmek için dokunun ve basılı tutun"</string>
-    <string name="widget_new_conversation_content_description" msgid="4214201569175733579">"Yeni ileti dizisi başlat"</string>
-    <string name="widget_title_content_description" msgid="5802836840910466231">"Mesajlaşma"</string>
-<string name="widget_new_message_content_description" msgid="2706347689522691188">"Yeni ileti"</string>
-<string name="loading_conversations" msgid="2890879017729068514">"İleti dizileri yükleniyor"</string>
-    <string name="loading_messages" msgid="3894765818932489665">"İletiler yükleniyor"</string>
-    <string name="view_more_conversations" msgid="2430542054023217740">"Diğer ileti dizilerini görüntüle"</string>
-    <string name="view_more_messages" msgid="6463224009407336178">"Daha fazla ileti görüntüle"</string>
-    <string name="conversation_deleted" msgid="6088388615460305424">"İleti dizisi silindi"</string>
-    <string name="tap_to_configure" msgid="7591682335533041774">"İleti dizisi silindi. Farklı bir Mesajlaşma ileti dizisini görüntülemek için dokunun"</string>
-    <string name="update_destination_blocked" msgid="4577227174205233981">"Engellendi"</string>
+<string name="conversation_deleted" msgid="6088388615460305424">"İleti dizisi silindi"</string>
+<string name="update_destination_blocked" msgid="4577227174205233981">"Engellendi"</string>
     <string name="update_destination_unblocked" msgid="5369499874676600478">"Engellemesi kaldırıldı"</string>
     <string name="db_full" msgid="8459265782521418031">"Depolama alanı az. Bazı veriler kaybolabilir."</string>
     <string name="attachment_chooser_activity_title" msgid="4049093653421684774">"Ekleri seçin"</string>

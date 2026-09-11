@@ -912,29 +912,20 @@
     <string name="audio_record_view_content_description">Tap &amp; hold to record audio</string>
 
     <!-- Content description for new conversation button in desktop widget -->
-    <string name="widget_new_conversation_content_description">Start new conversation</string>
-    <!-- Content description for widget title -->
-    <string name="widget_title_content_description">Messaging</string>
-    <!-- Displayed name of the desktop widget that shows the list of conversations-->
+<!-- Content description for widget title -->
+<!-- Displayed name of the desktop widget that shows the list of conversations-->
 <!-- Displayed name of the desktop widget that shows a single conversation-->
 <!-- Content description for new message button in desktop widget -->
-    <string name="widget_new_message_content_description">New message</string>
-    <!-- Content description for conversation list button in desktop widget -->
+<!-- Content description for conversation list button in desktop widget -->
 <!-- Shown when loading conversations in the widget -->
-    <string name="loading_conversations">Loading conversations</string>
-    <!-- Shown when loading messages in the widget -->
-    <string name="loading_messages">Loading messages</string>
-    <!-- Displayed at the end of the conversation list in the widget. Tapping on this will open bugle home activity. [CHAR LIMIT=35] -->
-    <string name="view_more_conversations">View more conversations</string>
-    <!-- Displayed at the beginning of the message list in the widget. Tapping on this will open bugle home activity. [CHAR LIMIT=35] -->
-    <string name="view_more_messages">View more messages</string>
-    <!-- Toast message telling the user a conversation has been deleted -->
+<!-- Shown when loading messages in the widget -->
+<!-- Displayed at the end of the conversation list in the widget. Tapping on this will open bugle home activity. [CHAR LIMIT=35] -->
+<!-- Displayed at the beginning of the message list in the widget. Tapping on this will open bugle home activity. [CHAR LIMIT=35] -->
+<!-- Toast message telling the user a conversation has been deleted -->
     <string name="conversation_deleted">Conversation deleted</string>
     <!-- Displayed when user adds a new conversation widget. Tapping on the widget in this
           mode will bring user to the conversation selection screen -->
-    <string name="tap_to_configure">Conversation deleted. Tap to show a different Messaging conversation</string>
-
-    <!-- Toast message telling the user that someone was blocked -->
+<!-- Toast message telling the user that someone was blocked -->
     <string name="update_destination_blocked">Blocked</string>
     <!-- Toast message telling the user that someone was unblocked -->
     <string name="update_destination_unblocked">Unblocked</string>

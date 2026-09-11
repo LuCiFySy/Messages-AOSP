@@ -91,12 +91,7 @@ public class Dates {
     public static CharSequence getMessageTimeString(final long time) {
         return getTimeString(time, false /*abbreviated*/, false /*minPeriodToday*/);
     }
-
-    public static CharSequence getWidgetTimeString(final long time, final boolean abbreviated) {
-        return getTimeString(time, abbreviated, true /*minPeriodToday*/);
-    }
-
-    public static CharSequence getFastScrollPreviewTimeString(final long time) {
+public static CharSequence getFastScrollPreviewTimeString(final long time) {
         return getTimeString(time, true /* abbreviated */, true /* minPeriodToday */);
     }
 

@@ -490,16 +490,8 @@
     <string name="send_button_long_click_description_no_sim_selector" msgid="979624100711380593">"Editar assunto"</string>
     <string name="send_button_long_click_description_with_sim_selector" msgid="7670274457707760465">"Selecione o SIM ou edite o assunto"</string>
     <string name="audio_record_view_content_description" msgid="29401157183728655">"Toque e segure para gravar áudio"</string>
-    <string name="widget_new_conversation_content_description" msgid="4214201569175733579">"Iniciar nova conversa"</string>
-    <string name="widget_title_content_description" msgid="5802836840910466231">"Mensagens"</string>
-<string name="widget_new_message_content_description" msgid="2706347689522691188">"Nova mensagem"</string>
-<string name="loading_conversations" msgid="2890879017729068514">"Carregando conversas"</string>
-    <string name="loading_messages" msgid="3894765818932489665">"Carregando mensagens"</string>
-    <string name="view_more_conversations" msgid="2430542054023217740">"Ver mais conversas"</string>
-    <string name="view_more_messages" msgid="6463224009407336178">"Ver mais mensagens"</string>
-    <string name="conversation_deleted" msgid="6088388615460305424">"Conversa excluída"</string>
-    <string name="tap_to_configure" msgid="7591682335533041774">"Conversa excluída. Toque para mostrar outra conversa do app Mensagens"</string>
-    <string name="update_destination_blocked" msgid="4577227174205233981">"Contato bloqueado"</string>
+<string name="conversation_deleted" msgid="6088388615460305424">"Conversa excluída"</string>
+<string name="update_destination_blocked" msgid="4577227174205233981">"Contato bloqueado"</string>
     <string name="update_destination_unblocked" msgid="5369499874676600478">"Contato desbloqueado"</string>
     <string name="db_full" msgid="8459265782521418031">"O espaço de armazenamento está baixo. Alguns dados podem ser perdidos."</string>
     <string name="attachment_chooser_activity_title" msgid="4049093653421684774">"Selecionar anexos"</string>

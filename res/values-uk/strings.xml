@@ -542,16 +542,8 @@
     <string name="send_button_long_click_description_no_sim_selector" msgid="979624100711380593">"Змінити тему"</string>
     <string name="send_button_long_click_description_with_sim_selector" msgid="7670274457707760465">"Вибрати SIM-карту або змінити тему"</string>
     <string name="audio_record_view_content_description" msgid="29401157183728655">"Торкніться й утримуйте, щоб записати аудіо"</string>
-    <string name="widget_new_conversation_content_description" msgid="4214201569175733579">"Почати нову бесіду"</string>
-    <string name="widget_title_content_description" msgid="5802836840910466231">"Повідомлення"</string>
-<string name="widget_new_message_content_description" msgid="2706347689522691188">"Нове повідомлення"</string>
-<string name="loading_conversations" msgid="2890879017729068514">"Завантаження бесід"</string>
-    <string name="loading_messages" msgid="3894765818932489665">"Завантаження повідомлень"</string>
-    <string name="view_more_conversations" msgid="2430542054023217740">"Переглянути інші бесіди"</string>
-    <string name="view_more_messages" msgid="6463224009407336178">"Переглянути більше повідомлень"</string>
-    <string name="conversation_deleted" msgid="6088388615460305424">"Бесіду видалено"</string>
-    <string name="tap_to_configure" msgid="7591682335533041774">"Бесіду видалено. Торкніться, щоб переглянути іншу бесіду в додатку Повідомлення"</string>
-    <string name="update_destination_blocked" msgid="4577227174205233981">"Заблоковано"</string>
+<string name="conversation_deleted" msgid="6088388615460305424">"Бесіду видалено"</string>
+<string name="update_destination_blocked" msgid="4577227174205233981">"Заблоковано"</string>
     <string name="update_destination_unblocked" msgid="5369499874676600478">"Розблоковано"</string>
     <string name="db_full" msgid="8459265782521418031">"Замало пам’яті. Деякі дані можуть не зберегтись."</string>
     <string name="attachment_chooser_activity_title" msgid="4049093653421684774">"Вибрати вкладені файли"</string>

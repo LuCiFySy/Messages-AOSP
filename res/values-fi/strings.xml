@@ -490,16 +490,8 @@
     <string name="send_button_long_click_description_no_sim_selector" msgid="979624100711380593">"Muokkaa aihetta"</string>
     <string name="send_button_long_click_description_with_sim_selector" msgid="7670274457707760465">"Valitse SIM tai muokkaa aihetta"</string>
     <string name="audio_record_view_content_description" msgid="29401157183728655">"Nauhoita ääntä koskettamalla pitkään"</string>
-    <string name="widget_new_conversation_content_description" msgid="4214201569175733579">"Aloita uusi keskustelu."</string>
-    <string name="widget_title_content_description" msgid="5802836840910466231">"Viestit"</string>
-<string name="widget_new_message_content_description" msgid="2706347689522691188">"Uusi viesti"</string>
-<string name="loading_conversations" msgid="2890879017729068514">"Ladataan keskusteluja."</string>
-    <string name="loading_messages" msgid="3894765818932489665">"Ladataan viestejä."</string>
-    <string name="view_more_conversations" msgid="2430542054023217740">"Näytä lisää keskusteluita."</string>
-    <string name="view_more_messages" msgid="6463224009407336178">"Näytä lisää viestejä."</string>
-    <string name="conversation_deleted" msgid="6088388615460305424">"Keskustelu on poistettu."</string>
-    <string name="tap_to_configure" msgid="7591682335533041774">"Keskustelu poistettu. Näytä toinen Viestit-keskustelu."</string>
-    <string name="update_destination_blocked" msgid="4577227174205233981">"Estetty"</string>
+<string name="conversation_deleted" msgid="6088388615460305424">"Keskustelu on poistettu."</string>
+<string name="update_destination_blocked" msgid="4577227174205233981">"Estetty"</string>
     <string name="update_destination_unblocked" msgid="5369499874676600478">"Esto kumottu"</string>
     <string name="db_full" msgid="8459265782521418031">"Tallennustila on vähissä. Tietoja voi kadota."</string>
     <string name="attachment_chooser_activity_title" msgid="4049093653421684774">"Valitse liitteet"</string>

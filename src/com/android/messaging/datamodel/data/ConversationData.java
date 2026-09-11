@@ -213,9 +213,7 @@ public class ConversationData extends BindableData {
                     LogUtil.w(TAG, "Meta data loader returned nothing for mConversationId = " +
                             mConversationId);
                     mListeners.closeConversation(mConversationId);
-                    // Notify the widget the conversation is deleted so it can go into its
-                    // configure state.
-                            mConversationId);
+mConversationId);
                 }
             } else {
                 LogUtil.w(TAG, "Meta data loader finished after unbinding mConversationId = " +

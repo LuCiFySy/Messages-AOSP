@@ -490,16 +490,8 @@
     <string name="send_button_long_click_description_no_sim_selector" msgid="979624100711380593">"বিষয় সম্পাদনা করুন"</string>
     <string name="send_button_long_click_description_with_sim_selector" msgid="7670274457707760465">"SIM নির্বাচন করুন বা বিষয় সম্পাদনা করুন"</string>
     <string name="audio_record_view_content_description" msgid="29401157183728655">"অডিও রেকর্ড করতে স্পর্শ করুন এবং ধরে রাখুন"</string>
-    <string name="widget_new_conversation_content_description" msgid="4214201569175733579">"নতুন কথোপকথন শুরু করুন"</string>
-    <string name="widget_title_content_description" msgid="5802836840910466231">"বার্তাপ্রেরণ"</string>
-<string name="widget_new_message_content_description" msgid="2706347689522691188">"নতুন বার্তা"</string>
-<string name="loading_conversations" msgid="2890879017729068514">"কথোপকথনগুলি লোড হচ্ছে"</string>
-    <string name="loading_messages" msgid="3894765818932489665">"বার্তাগুলি লোড করা হচ্ছে"</string>
-    <string name="view_more_conversations" msgid="2430542054023217740">"আরো কথোপকথন দেখুন"</string>
-    <string name="view_more_messages" msgid="6463224009407336178">"আরো বার্তা দেখুন"</string>
-    <string name="conversation_deleted" msgid="6088388615460305424">"কথোপকথন মুছে দেওয়া হয়েছে"</string>
-    <string name="tap_to_configure" msgid="7591682335533041774">"কথোপকথন মুছে ফেলা হয়েছে৷ একটি ভিন্ন বার্তাপ্রেরণ কথোপকথন দেখানোর জন্য স্পর্শ করুন"</string>
-    <string name="update_destination_blocked" msgid="4577227174205233981">"অবরুদ্ধ"</string>
+<string name="conversation_deleted" msgid="6088388615460305424">"কথোপকথন মুছে দেওয়া হয়েছে"</string>
+<string name="update_destination_blocked" msgid="4577227174205233981">"অবরুদ্ধ"</string>
     <string name="update_destination_unblocked" msgid="5369499874676600478">"অবরোধ মুক্ত করা হয়েছে"</string>
     <string name="db_full" msgid="8459265782521418031">"সঞ্চয়স্থান কম রয়েছে৷ কিছু ডেটা হারিয়ে যেতে পারে৷"</string>
     <string name="attachment_chooser_activity_title" msgid="4049093653421684774">"সংযুক্তিগুলি নির্বাচন করুন"</string>
