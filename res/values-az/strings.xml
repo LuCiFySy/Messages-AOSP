@@ -492,11 +492,8 @@
     <string name="audio_record_view_content_description" msgid="29401157183728655">"Səs yazmaq üçün basın və saxlayın"</string>
     <string name="widget_new_conversation_content_description" msgid="4214201569175733579">"Yeni söhbətə başla"</string>
     <string name="widget_title_content_description" msgid="5802836840910466231">"Mesajlaşma"</string>
-    <string name="widget_conversation_list_name" msgid="4005037639000611925">"Mesajlaşma Siyahısı"</string>
-    <string name="widget_conversation_name" msgid="3900606239571892871">"Mesajlaşma"</string>
-    <string name="widget_new_message_content_description" msgid="2706347689522691188">"Yeni mesaj"</string>
-    <string name="widget_conversation_list_content_description" msgid="4137121313374868821">"Söhbət siyahısı"</string>
-    <string name="loading_conversations" msgid="2890879017729068514">"Söhbətlər yüklənir"</string>
+<string name="widget_new_message_content_description" msgid="2706347689522691188">"Yeni mesaj"</string>
+<string name="loading_conversations" msgid="2890879017729068514">"Söhbətlər yüklənir"</string>
     <string name="loading_messages" msgid="3894765818932489665">"Mesajlar yüklənir"</string>
     <string name="view_more_conversations" msgid="2430542054023217740">"Daha çox söhbət görüntülə"</string>
     <string name="view_more_messages" msgid="6463224009407336178">"Daha çox mesaja bax"</string>

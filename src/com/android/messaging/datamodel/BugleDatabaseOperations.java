@@ -48,7 +48,6 @@ import com.android.messaging.util.LogUtil;
 import com.android.messaging.util.OsUtil;
 import com.android.messaging.util.PhoneUtils;
 import com.android.messaging.util.UriUtil;
-import com.android.messaging.widget.WidgetConversationProvider;
 import com.google.common.annotations.VisibleForTesting;
 
 import java.io.IOException;
@@ -851,8 +850,6 @@ public class BugleDatabaseOperations {
         // Used by background thread when refreshing conversation so conversation could be deleted.
         updateConversationRowIfExists(dbWrapper, conversationId, values);
 
-        WidgetConversationProvider.notifyConversationRenamed(Factory.get().getApplicationContext(),
-                conversationId);
     }
 
     /**

@@ -27,7 +27,6 @@ public class LogUtil {
     public static final String BUGLE_DATAMODEL_TAG = "MessagingAppDataModel";
     public static final String BUGLE_IMAGE_TAG = "MessagingAppImage";
     public static final String BUGLE_NOTIFICATIONS_TAG = "MessagingAppNotif";
-    public static final String BUGLE_WIDGET_TAG = "MessagingAppWidget";
 
     public static final int DEBUG = android.util.Log.DEBUG;
     public static final int WARN = android.util.Log.WARN;

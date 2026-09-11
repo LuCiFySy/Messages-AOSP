@@ -492,11 +492,8 @@
     <string name="audio_record_view_content_description" msgid="29401157183728655">"ஆடியோவைப் பதிவுசெய்ய, தொட்டுப் பிடித்திருக்கவும்"</string>
     <string name="widget_new_conversation_content_description" msgid="4214201569175733579">"புதிய உரையாடலைத் தொடங்கு"</string>
     <string name="widget_title_content_description" msgid="5802836840910466231">"செய்தியிடல்"</string>
-    <string name="widget_conversation_list_name" msgid="4005037639000611925">"செய்தியிடல் பட்டியல்"</string>
-    <string name="widget_conversation_name" msgid="3900606239571892871">"செய்தியிடல்"</string>
-    <string name="widget_new_message_content_description" msgid="2706347689522691188">"புதிய செய்தி"</string>
-    <string name="widget_conversation_list_content_description" msgid="4137121313374868821">"உரையாடல் பட்டியல்"</string>
-    <string name="loading_conversations" msgid="2890879017729068514">"உரையாடல்களை ஏற்றுகிறது"</string>
+<string name="widget_new_message_content_description" msgid="2706347689522691188">"புதிய செய்தி"</string>
+<string name="loading_conversations" msgid="2890879017729068514">"உரையாடல்களை ஏற்றுகிறது"</string>
     <string name="loading_messages" msgid="3894765818932489665">"செய்திகளை ஏற்றுகிறது"</string>
     <string name="view_more_conversations" msgid="2430542054023217740">"மேலும் உரையாடல்களைக் காட்டு"</string>
     <string name="view_more_messages" msgid="6463224009407336178">"கூடுதல் செய்திகளைக் காட்டு"</string>

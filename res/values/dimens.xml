@@ -170,7 +170,6 @@
     <dimen name="widget_avatar_padding">2dp</dimen>
     <dimen name="widget_header_height">48dp</dimen>
     <dimen name="widget_header_new_conv_button_width">48dp</dimen>
-    <dimen name="widget_conversation_title_size">18sp</dimen>
     <dimen name="widget_compose_top_padding">12dp</dimen>
     <dimen name="widget_compose_top_padding_compressed">16dp</dimen>
 

@@ -492,11 +492,8 @@
     <string name="audio_record_view_content_description" msgid="29401157183728655">"অডিও রেকর্ড করতে স্পর্শ করুন এবং ধরে রাখুন"</string>
     <string name="widget_new_conversation_content_description" msgid="4214201569175733579">"নতুন কথোপকথন শুরু করুন"</string>
     <string name="widget_title_content_description" msgid="5802836840910466231">"বার্তাপ্রেরণ"</string>
-    <string name="widget_conversation_list_name" msgid="4005037639000611925">"বার্তাপ্রেরণ তালিকা"</string>
-    <string name="widget_conversation_name" msgid="3900606239571892871">"বার্তাপ্রেরণ"</string>
-    <string name="widget_new_message_content_description" msgid="2706347689522691188">"নতুন বার্তা"</string>
-    <string name="widget_conversation_list_content_description" msgid="4137121313374868821">"কথোপকথনের তালিকা"</string>
-    <string name="loading_conversations" msgid="2890879017729068514">"কথোপকথনগুলি লোড হচ্ছে"</string>
+<string name="widget_new_message_content_description" msgid="2706347689522691188">"নতুন বার্তা"</string>
+<string name="loading_conversations" msgid="2890879017729068514">"কথোপকথনগুলি লোড হচ্ছে"</string>
     <string name="loading_messages" msgid="3894765818932489665">"বার্তাগুলি লোড করা হচ্ছে"</string>
     <string name="view_more_conversations" msgid="2430542054023217740">"আরো কথোপকথন দেখুন"</string>
     <string name="view_more_messages" msgid="6463224009407336178">"আরো বার্তা দেখুন"</string>

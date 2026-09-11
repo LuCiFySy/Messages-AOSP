@@ -54,7 +54,6 @@ import com.android.messaging.util.LogUtil;
 import com.android.messaging.util.OsUtil;
 import com.android.messaging.util.PhoneUtils;
 import com.android.messaging.util.SafeAsyncTask;
-import com.android.messaging.widget.WidgetConversationProvider;
 
 import java.util.ArrayList;
 import java.util.Collections;
@@ -216,8 +215,6 @@ public class ConversationData extends BindableData {
                     mListeners.closeConversation(mConversationId);
                     // Notify the widget the conversation is deleted so it can go into its
                     // configure state.
-                    WidgetConversationProvider.notifyConversationDeleted(
-                            Factory.get().getApplicationContext(),
                             mConversationId);
                 }
             } else {

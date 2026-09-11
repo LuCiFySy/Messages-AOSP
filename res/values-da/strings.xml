@@ -492,11 +492,8 @@
     <string name="audio_record_view_content_description" msgid="29401157183728655">"Tryk og hold nede for at optage lyd"</string>
     <string name="widget_new_conversation_content_description" msgid="4214201569175733579">"Start en ny samtale"</string>
     <string name="widget_title_content_description" msgid="5802836840910466231">"Beskeder"</string>
-    <string name="widget_conversation_list_name" msgid="4005037639000611925">"Liste i Beskeder"</string>
-    <string name="widget_conversation_name" msgid="3900606239571892871">"Beskeder"</string>
-    <string name="widget_new_message_content_description" msgid="2706347689522691188">"Ny besked"</string>
-    <string name="widget_conversation_list_content_description" msgid="4137121313374868821">"Samtaleliste"</string>
-    <string name="loading_conversations" msgid="2890879017729068514">"Indlæser samtaler"</string>
+<string name="widget_new_message_content_description" msgid="2706347689522691188">"Ny besked"</string>
+<string name="loading_conversations" msgid="2890879017729068514">"Indlæser samtaler"</string>
     <string name="loading_messages" msgid="3894765818932489665">"Indlæser beskeder"</string>
     <string name="view_more_conversations" msgid="2430542054023217740">"Se flere samtaler"</string>
     <string name="view_more_messages" msgid="6463224009407336178">"Se flere beskeder"</string>

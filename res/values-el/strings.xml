@@ -492,11 +492,8 @@
     <string name="audio_record_view_content_description" msgid="29401157183728655">"Πατήστε παρατεταμένα για εγγραφή ήχου"</string>
     <string name="widget_new_conversation_content_description" msgid="4214201569175733579">"Έναρξη νέας συνομιλίας"</string>
     <string name="widget_title_content_description" msgid="5802836840910466231">"Ανταλλαγή μηνυμάτων"</string>
-    <string name="widget_conversation_list_name" msgid="4005037639000611925">"Λίστα Ανταλλαγής μηνυμάτων"</string>
-    <string name="widget_conversation_name" msgid="3900606239571892871">"Ανταλλαγή μηνυμάτων"</string>
-    <string name="widget_new_message_content_description" msgid="2706347689522691188">"Νέο μήνυμα"</string>
-    <string name="widget_conversation_list_content_description" msgid="4137121313374868821">"Λίστα συνομιλιών"</string>
-    <string name="loading_conversations" msgid="2890879017729068514">"Φόρτωση συνομιλιών"</string>
+<string name="widget_new_message_content_description" msgid="2706347689522691188">"Νέο μήνυμα"</string>
+<string name="loading_conversations" msgid="2890879017729068514">"Φόρτωση συνομιλιών"</string>
     <string name="loading_messages" msgid="3894765818932489665">"Φόρτωση μηνυμάτων"</string>
     <string name="view_more_conversations" msgid="2430542054023217740">"Προβολή περισσότερων συνομιλιών"</string>
     <string name="view_more_messages" msgid="6463224009407336178">"Εμφάνιση περισσότερων μηνυμάτων"</string>

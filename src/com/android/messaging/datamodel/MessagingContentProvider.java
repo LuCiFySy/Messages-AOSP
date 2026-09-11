@@ -39,8 +39,6 @@ import com.android.messaging.util.Assert;
 import com.android.messaging.util.LogUtil;
 import com.android.messaging.util.OsUtil;
 import com.android.messaging.util.PhoneUtils;
-import com.android.messaging.widget.BugleWidgetProvider;
-import com.android.messaging.widget.WidgetConversationProvider;
 import com.google.common.annotations.VisibleForTesting;
 
 import java.io.FileDescriptor;
@@ -109,10 +107,8 @@ public class MessagingContentProvider extends ContentProvider {
         cr.notifyChange(uri, null);
 
         // Notify any conversations widgets the conversation list has changed.
-        BugleWidgetProvider.notifyConversationListChanged(context);
 
         // Notify all conversation widgets to update.
-        WidgetConversationProvider.notifyMessagesChanged(context, null /*conversationId*/);
     }
 
     /**
@@ -186,7 +182,6 @@ public class MessagingContentProvider extends ContentProvider {
         notifyConversationListChanged();
 
         // Notify the widget the messages changed
-        WidgetConversationProvider.notifyMessagesChanged(context, conversationId);
     }
 
     /**
@@ -216,7 +211,6 @@ public class MessagingContentProvider extends ContentProvider {
         cr.notifyChange(CONVERSATIONS_URI, null);
 
         // Notify the widget the conversation list changed
-        BugleWidgetProvider.notifyConversationListChanged(context);
     }
 
     /**

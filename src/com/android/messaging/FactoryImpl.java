@@ -38,7 +38,6 @@ import com.android.messaging.util.BugleGservices;
 import com.android.messaging.util.BugleGservicesImpl;
 import com.android.messaging.util.BuglePrefs;
 import com.android.messaging.util.BugleSubscriptionPrefs;
-import com.android.messaging.util.BugleWidgetPrefs;
 import com.android.messaging.util.LogUtil;
 import com.android.messaging.util.MediaUtil;
 import com.android.messaging.util.MediaUtilImpl;
@@ -52,7 +51,6 @@ class FactoryImpl extends Factory {
     private DataModel mDataModel;
     private BugleGservices mBugleGservices;
     private BugleApplicationPrefs mBugleApplicationPrefs;
-    private BugleWidgetPrefs mBugleWidgetPrefs;
     private Context mApplicationContext;
     private UIIntents mUIIntents;
     private MemoryCacheManager mMemoryCacheManager;
@@ -94,7 +92,6 @@ class FactoryImpl extends Factory {
         factory.mBugleGservices = new BugleGservicesImpl(applicationContext);
         factory.mBugleApplicationPrefs = new BugleApplicationPrefs(applicationContext);
         factory.mDataModel = new DataModelImpl(applicationContext);
-        factory.mBugleWidgetPrefs = new BugleWidgetPrefs(applicationContext);
         factory.mUIIntents = new UIIntentsImpl();
         factory.mContactContentObserver = new ContactContentObserver();
         factory.mMediaUtil = new MediaUtilImpl();
@@ -151,9 +148,6 @@ class FactoryImpl extends Factory {
     }
 
     @Override
-    public BuglePrefs getWidgetPrefs() {
-        return mBugleWidgetPrefs;
-    }
 
     @Override
     public BuglePrefs getSubscriptionPrefs(int subId) {

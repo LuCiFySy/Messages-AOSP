@@ -41,7 +41,6 @@ import android.view.animation.Animation;
 import android.view.animation.Animation.AnimationListener;
 import android.view.animation.Interpolator;
 import android.view.animation.ScaleAnimation;
-import android.widget.RemoteViews;
 import android.widget.Toast;
 
 import com.android.messaging.Factory;
@@ -432,7 +431,5 @@ public class UiUtils {
         return null;
     }
 
-    public static RemoteViews getWidgetMissingPermissionView(final Context context) {
-        return new RemoteViews(context.getPackageName(), R.layout.widget_missing_permission);
-    }
+
 }

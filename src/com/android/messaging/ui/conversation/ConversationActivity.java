@@ -73,7 +73,6 @@ public class ConversationActivity extends BugleActionBarActivity
         } else {
             if (intent.
                     getBooleanExtra(UIIntents.UI_INTENT_EXTRA_GOTO_CONVERSATION_LIST, false)) {
-                // See the comment in BugleWidgetService.getViewMoreConversationsView() why this
                 // is unfortunately necessary. The Bugle desktop widget can display a list of
                 // conversations. When there are more conversations that can be displayed in
                 // the widget, the last item is a "More conversations" item. The way widgets

@@ -298,7 +298,6 @@
         </activity>
 
         <activity
-            android:name=".ui.debug.DebugMmsConfigActivity"
             android:configChanges="orientation|screenSize|keyboardHidden"
             android:screenOrientation="user"
             android:theme="@style/BugleTheme.DialogActivity"
@@ -487,45 +486,6 @@
                 <action android:name="android.telephony.action.DEFAULT_SMS_SUBSCRIPTION_CHANGED"/>
             </intent-filter>
         </receiver>
-
-        <!-- Widget that displays the conversation list -->
-        <receiver android:name=".widget.BugleWidgetProvider"
-                android:exported="true"
-                android:label="@string/widget_conversation_name">
-            <intent-filter>
-                <action android:name="android.appwidget.action.APPWIDGET_UPDATE" />
-            </intent-filter>
-            <meta-data android:name="android.appwidget.provider"
-                       android:resource="@xml/widget_conversation_list" />
-        </receiver>
-
-        <!-- Widget that displays the messages of a single conversation -->
-        <receiver android:name=".widget.WidgetConversationProvider"
-                android:exported="true"
-                android:label="@string/widget_conversation_name">
-            <intent-filter>
-                <action android:name="android.appwidget.action.APPWIDGET_UPDATE" />
-            </intent-filter>
-            <meta-data android:name="android.appwidget.provider"
-                       android:resource="@xml/widget_conversation" />
-        </receiver>
-
-        <service android:name=".widget.WidgetConversationListService"
-                 android:permission="android.permission.BIND_REMOTEVIEWS"
-                 android:exported="false" />
-
-        <service android:name=".widget.WidgetConversationService"
-                 android:permission="android.permission.BIND_REMOTEVIEWS"
-                 android:exported="false" />
-
-        <activity android:name=".ui.WidgetPickConversationActivity"
-            android:theme="@style/BugleTheme"
-                android:exported="true"
-            android:label="@string/app_name" >
-            <intent-filter>
-                <action android:name="android.appwidget.action.APPWIDGET_CONFIGURE" />
-            </intent-filter>
-        </activity>
 
         <service android:name="androidx.appcompat.mms.MmsService"/>
     </application>

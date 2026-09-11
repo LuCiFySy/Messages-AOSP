@@ -492,11 +492,8 @@
     <string name="audio_record_view_content_description" msgid="29401157183728655">"Raak en hou om oudio op te neem"</string>
     <string name="widget_new_conversation_content_description" msgid="4214201569175733579">"Begin nuwe gesprek"</string>
     <string name="widget_title_content_description" msgid="5802836840910466231">"Boodskappe"</string>
-    <string name="widget_conversation_list_name" msgid="4005037639000611925">"Boodskappe-lys"</string>
-    <string name="widget_conversation_name" msgid="3900606239571892871">"Boodskappe"</string>
-    <string name="widget_new_message_content_description" msgid="2706347689522691188">"Nuwe boodskap"</string>
-    <string name="widget_conversation_list_content_description" msgid="4137121313374868821">"Gespreklys"</string>
-    <string name="loading_conversations" msgid="2890879017729068514">"Laai tans gesprekke"</string>
+<string name="widget_new_message_content_description" msgid="2706347689522691188">"Nuwe boodskap"</string>
+<string name="loading_conversations" msgid="2890879017729068514">"Laai tans gesprekke"</string>
     <string name="loading_messages" msgid="3894765818932489665">"Laai tans boodskappe"</string>
     <string name="view_more_conversations" msgid="2430542054023217740">"Bekyk nog gesprekke"</string>
     <string name="view_more_messages" msgid="6463224009407336178">"Bekyk nog boodskappe"</string>

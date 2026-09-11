@@ -492,11 +492,8 @@
     <string name="audio_record_view_content_description" msgid="29401157183728655">"Chạm và giữ để ghi âm"</string>
     <string name="widget_new_conversation_content_description" msgid="4214201569175733579">"Bắt đầu cuộc trò chuyện mới"</string>
     <string name="widget_title_content_description" msgid="5802836840910466231">"Nhắn tin"</string>
-    <string name="widget_conversation_list_name" msgid="4005037639000611925">"Danh sách Nhắn tin"</string>
-    <string name="widget_conversation_name" msgid="3900606239571892871">"Nhắn tin"</string>
-    <string name="widget_new_message_content_description" msgid="2706347689522691188">"Tin nhắn mới"</string>
-    <string name="widget_conversation_list_content_description" msgid="4137121313374868821">"Danh sách cuộc hội thoại"</string>
-    <string name="loading_conversations" msgid="2890879017729068514">"Đang tải cuộc trò chuyện..."</string>
+<string name="widget_new_message_content_description" msgid="2706347689522691188">"Tin nhắn mới"</string>
+<string name="loading_conversations" msgid="2890879017729068514">"Đang tải cuộc trò chuyện..."</string>
     <string name="loading_messages" msgid="3894765818932489665">"Đang tải thư"</string>
     <string name="view_more_conversations" msgid="2430542054023217740">"Xem các cuộc hội thoại khác"</string>
     <string name="view_more_messages" msgid="6463224009407336178">"Xem thêm tin nhắn"</string>

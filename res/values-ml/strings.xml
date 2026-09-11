@@ -492,11 +492,8 @@
     <string name="audio_record_view_content_description" msgid="29401157183728655">"ഓഡിയോ റെക്കോർഡുചെയ്യാൻ സ്‌പർശിച്ച് പിടിക്കുക"</string>
     <string name="widget_new_conversation_content_description" msgid="4214201569175733579">"പുതിയ സംഭാഷണം ആരംഭിക്കുക"</string>
     <string name="widget_title_content_description" msgid="5802836840910466231">"സന്ദേശമയയ്‌ക്കൽ"</string>
-    <string name="widget_conversation_list_name" msgid="4005037639000611925">"സന്ദേശമയയ്ക്കൽ ലിസ്റ്റ്"</string>
-    <string name="widget_conversation_name" msgid="3900606239571892871">"സന്ദേശമയയ്‌ക്കൽ"</string>
-    <string name="widget_new_message_content_description" msgid="2706347689522691188">"പുതിയ സന്ദേശം"</string>
-    <string name="widget_conversation_list_content_description" msgid="4137121313374868821">"സംഭാഷണ ലിസ്റ്റ്"</string>
-    <string name="loading_conversations" msgid="2890879017729068514">"സംഭാഷണങ്ങൾ ലോഡുചെയ്യുന്നു"</string>
+<string name="widget_new_message_content_description" msgid="2706347689522691188">"പുതിയ സന്ദേശം"</string>
+<string name="loading_conversations" msgid="2890879017729068514">"സംഭാഷണങ്ങൾ ലോഡുചെയ്യുന്നു"</string>
     <string name="loading_messages" msgid="3894765818932489665">"സന്ദേശങ്ങൾ ലോഡുചെയ്യുന്നു"</string>
     <string name="view_more_conversations" msgid="2430542054023217740">"കൂടുതൽ സംഭാഷണങ്ങൾ കാണുക"</string>
     <string name="view_more_messages" msgid="6463224009407336178">"കൂടുതൽ സന്ദേശങ്ങൾ കാണുക"</string>

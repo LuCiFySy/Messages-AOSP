@@ -163,7 +163,6 @@
     <color name="widget_outgoing_text_color">#424242</color>
     <color name="widget_background_color">#ffffff</color>
     <color name="ripple_material_light">#40000000</color>
-    <color name="widget_conversation_title_color">#FFFFFF</color>
 
     <color name="attachment_chooser_audio_background">#eeeeee</color>
     <color name="attachment_chooser_vcard_background">#eeeeee</color>

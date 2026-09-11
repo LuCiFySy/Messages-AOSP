@@ -492,11 +492,8 @@
     <string name="audio_record_view_content_description" msgid="29401157183728655">"ऑडियो रिकॉर्ड करने के लिए स्‍पर्श करके रखें"</string>
     <string name="widget_new_conversation_content_description" msgid="4214201569175733579">"नई बातचीत प्रारंभ करें"</string>
     <string name="widget_title_content_description" msgid="5802836840910466231">"संदेश सेवा"</string>
-    <string name="widget_conversation_list_name" msgid="4005037639000611925">"संदेश सेवा सूची"</string>
-    <string name="widget_conversation_name" msgid="3900606239571892871">"संदेश सेवा"</string>
-    <string name="widget_new_message_content_description" msgid="2706347689522691188">"नया संदेश"</string>
-    <string name="widget_conversation_list_content_description" msgid="4137121313374868821">"वार्तालाप सूची"</string>
-    <string name="loading_conversations" msgid="2890879017729068514">"बातचीत लोड हो रही हैं…"</string>
+<string name="widget_new_message_content_description" msgid="2706347689522691188">"नया संदेश"</string>
+<string name="loading_conversations" msgid="2890879017729068514">"बातचीत लोड हो रही हैं…"</string>
     <string name="loading_messages" msgid="3894765818932489665">"संदेश लोड हो रहे हैं"</string>
     <string name="view_more_conversations" msgid="2430542054023217740">"और बातचीत देखें"</string>
     <string name="view_more_messages" msgid="6463224009407336178">"अधिक संदेश देखें"</string>

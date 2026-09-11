@@ -492,11 +492,8 @@
     <string name="audio_record_view_content_description" msgid="29401157183728655">"ఆడియోను రికార్డ్ చేయడానికి తాకి, అలాగే ఉంచండి"</string>
     <string name="widget_new_conversation_content_description" msgid="4214201569175733579">"కొత్త సంభాషణను ప్రారంభించండి"</string>
     <string name="widget_title_content_description" msgid="5802836840910466231">"సందేశ సేవ"</string>
-    <string name="widget_conversation_list_name" msgid="4005037639000611925">"సందేశ సేవ జాబితా"</string>
-    <string name="widget_conversation_name" msgid="3900606239571892871">"సందేశ సేవ"</string>
-    <string name="widget_new_message_content_description" msgid="2706347689522691188">"కొత్త సందేశం"</string>
-    <string name="widget_conversation_list_content_description" msgid="4137121313374868821">"సంభాషణ జాబితా"</string>
-    <string name="loading_conversations" msgid="2890879017729068514">"సంభాషణలను లోడ్ చేస్తోంది"</string>
+<string name="widget_new_message_content_description" msgid="2706347689522691188">"కొత్త సందేశం"</string>
+<string name="loading_conversations" msgid="2890879017729068514">"సంభాషణలను లోడ్ చేస్తోంది"</string>
     <string name="loading_messages" msgid="3894765818932489665">"సందేశాలు లోడ్ అవుతున్నాయి"</string>
     <string name="view_more_conversations" msgid="2430542054023217740">"మరిన్ని సంభాషణలను వీక్షించండి"</string>
     <string name="view_more_messages" msgid="6463224009407336178">"మరిన్ని సందేశాలను వీక్షించండి"</string>

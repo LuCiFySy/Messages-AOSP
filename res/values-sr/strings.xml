@@ -518,11 +518,8 @@
     <string name="audio_record_view_content_description" msgid="29401157183728655">"Додирните и задржите за снимање звука"</string>
     <string name="widget_new_conversation_content_description" msgid="4214201569175733579">"Започни нову конверзацију"</string>
     <string name="widget_title_content_description" msgid="5802836840910466231">"Размена порука"</string>
-    <string name="widget_conversation_list_name" msgid="4005037639000611925">"Листа из Размене порука"</string>
-    <string name="widget_conversation_name" msgid="3900606239571892871">"Размена порука"</string>
-    <string name="widget_new_message_content_description" msgid="2706347689522691188">"Нова порука"</string>
-    <string name="widget_conversation_list_content_description" msgid="4137121313374868821">"Листа преписки"</string>
-    <string name="loading_conversations" msgid="2890879017729068514">"Учитавају се конверзације"</string>
+<string name="widget_new_message_content_description" msgid="2706347689522691188">"Нова порука"</string>
+<string name="loading_conversations" msgid="2890879017729068514">"Учитавају се конверзације"</string>
     <string name="loading_messages" msgid="3894765818932489665">"Учитавају се поруке"</string>
     <string name="view_more_conversations" msgid="2430542054023217740">"Прикажи још конверзација"</string>
     <string name="view_more_messages" msgid="6463224009407336178">"Прикажи још порука"</string>

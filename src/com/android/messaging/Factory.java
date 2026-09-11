@@ -59,7 +59,6 @@ public abstract class Factory {
     public abstract BugleGservices getBugleGservices();
     public abstract BuglePrefs getApplicationPrefs();
     public abstract BuglePrefs getSubscriptionPrefs(int subId);
-    public abstract BuglePrefs getWidgetPrefs();
     public abstract UIIntents getUIIntents();
     public abstract MemoryCacheManager getMemoryCacheManager();
     public abstract MediaResourceManager getMediaResourceManager();

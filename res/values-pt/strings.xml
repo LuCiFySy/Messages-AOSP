@@ -492,11 +492,8 @@
     <string name="audio_record_view_content_description" msgid="29401157183728655">"Toque e segure para gravar áudio"</string>
     <string name="widget_new_conversation_content_description" msgid="4214201569175733579">"Iniciar nova conversa"</string>
     <string name="widget_title_content_description" msgid="5802836840910466231">"Mensagens"</string>
-    <string name="widget_conversation_list_name" msgid="4005037639000611925">"Lista de mensagens"</string>
-    <string name="widget_conversation_name" msgid="3900606239571892871">"Mensagens"</string>
-    <string name="widget_new_message_content_description" msgid="2706347689522691188">"Nova mensagem"</string>
-    <string name="widget_conversation_list_content_description" msgid="4137121313374868821">"Lista de conversas"</string>
-    <string name="loading_conversations" msgid="2890879017729068514">"Carregando conversas"</string>
+<string name="widget_new_message_content_description" msgid="2706347689522691188">"Nova mensagem"</string>
+<string name="loading_conversations" msgid="2890879017729068514">"Carregando conversas"</string>
     <string name="loading_messages" msgid="3894765818932489665">"Carregando mensagens"</string>
     <string name="view_more_conversations" msgid="2430542054023217740">"Ver mais conversas"</string>
     <string name="view_more_messages" msgid="6463224009407336178">"Ver mais mensagens"</string>

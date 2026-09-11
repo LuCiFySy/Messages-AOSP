@@ -916,14 +916,11 @@
     <!-- Content description for widget title -->
     <string name="widget_title_content_description">Messaging</string>
     <!-- Displayed name of the desktop widget that shows the list of conversations-->
-    <string name="widget_conversation_list_name">Messaging List</string>
-    <!-- Displayed name of the desktop widget that shows a single conversation-->
-    <string name="widget_conversation_name">Messaging</string>
-    <!-- Content description for new message button in desktop widget -->
+<!-- Displayed name of the desktop widget that shows a single conversation-->
+<!-- Content description for new message button in desktop widget -->
     <string name="widget_new_message_content_description">New message</string>
     <!-- Content description for conversation list button in desktop widget -->
-    <string name="widget_conversation_list_content_description">Conversation list</string>
-    <!-- Shown when loading conversations in the widget -->
+<!-- Shown when loading conversations in the widget -->
     <string name="loading_conversations">Loading conversations</string>
     <!-- Shown when loading messages in the widget -->
     <string name="loading_messages">Loading messages</string>

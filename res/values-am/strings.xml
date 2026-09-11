@@ -492,11 +492,8 @@
     <string name="audio_record_view_content_description" msgid="29401157183728655">"ተሰሚን ለመቅረጽ ይንኩና ይያዙ"</string>
     <string name="widget_new_conversation_content_description" msgid="4214201569175733579">"አዲስ ውይይት ጀምር"</string>
     <string name="widget_title_content_description" msgid="5802836840910466231">"አላላክ"</string>
-    <string name="widget_conversation_list_name" msgid="4005037639000611925">"የአላላክ ዝርዝር"</string>
-    <string name="widget_conversation_name" msgid="3900606239571892871">"አላላክ"</string>
-    <string name="widget_new_message_content_description" msgid="2706347689522691188">"አዲስ መልዕክት"</string>
-    <string name="widget_conversation_list_content_description" msgid="4137121313374868821">"የውይይት ዝርዝር"</string>
-    <string name="loading_conversations" msgid="2890879017729068514">"ውይይቶችን በመጫን ላይ"</string>
+<string name="widget_new_message_content_description" msgid="2706347689522691188">"አዲስ መልዕክት"</string>
+<string name="loading_conversations" msgid="2890879017729068514">"ውይይቶችን በመጫን ላይ"</string>
     <string name="loading_messages" msgid="3894765818932489665">"መልዕክቶች በመስቀል ላይ"</string>
     <string name="view_more_conversations" msgid="2430542054023217740">"ተጨማሪ ውይይቶችን ይመልከቱ"</string>
     <string name="view_more_messages" msgid="6463224009407336178">"ተጨማሪ መልዕክቶችን አሳይ"</string>

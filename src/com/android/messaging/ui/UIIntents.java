@@ -100,8 +100,6 @@ public abstract class UIIntents {
     // Sending attachment content type from widget
     public static final String UI_INTENT_EXTRA_ATTACHMENT_TYPE = "attachment_type";
 
-    public static final String ACTION_WIDGET_CONVERSATION =
-            "com.android.messaging.widget_conversation:";
 
     public static final String UI_INTENT_EXTRA_REQUIRES_MMS = "requires_mms";
 
@@ -156,7 +154,6 @@ public abstract class UIIntents {
     /**
      * Launch debug activity to set MMS config options.
      */
-    public abstract void launchDebugMmsConfigActivity(final Context context);
 
     /**
      * Launch an activity to change settings.
@@ -373,17 +370,3 @@ public abstract class UIIntents {
      * Launch to browser for a url.
      */
     public abstract void launchBrowserForUrl(final Context context, final String url);
-
-    /**
-     * Get a PendingIntent for the widget conversation template.
-     */
-    public abstract PendingIntent getWidgetPendingIntentForConversationActivity(
-            final Context context, final String conversationId, final int requestCode);
-
-    /**
-     * Get a PendingIntent for the conversation widget configuration activity template.
-     */
-    public abstract PendingIntent getWidgetPendingIntentForConfigurationActivity(
-            final Context context, final int appWidgetId);
-
-}

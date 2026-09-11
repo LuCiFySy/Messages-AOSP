@@ -492,11 +492,8 @@
     <string name="audio_record_view_content_description" msgid="29401157183728655">"録音するには押し続けます"</string>
     <string name="widget_new_conversation_content_description" msgid="4214201569175733579">"新しいスレッドを開始"</string>
     <string name="widget_title_content_description" msgid="5802836840910466231">"SMS"</string>
-    <string name="widget_conversation_list_name" msgid="4005037639000611925">"SMSリスト"</string>
-    <string name="widget_conversation_name" msgid="3900606239571892871">"SMS"</string>
-    <string name="widget_new_message_content_description" msgid="2706347689522691188">"新しいメッセージ"</string>
-    <string name="widget_conversation_list_content_description" msgid="4137121313374868821">"スレッドリスト"</string>
-    <string name="loading_conversations" msgid="2890879017729068514">"スレッドを読み込んでいます"</string>
+<string name="widget_new_message_content_description" msgid="2706347689522691188">"新しいメッセージ"</string>
+<string name="loading_conversations" msgid="2890879017729068514">"スレッドを読み込んでいます"</string>
     <string name="loading_messages" msgid="3894765818932489665">"メールを読み込んでいます"</string>
     <string name="view_more_conversations" msgid="2430542054023217740">"他のスレッドを見る"</string>
     <string name="view_more_messages" msgid="6463224009407336178">"他のメールを見る"</string>

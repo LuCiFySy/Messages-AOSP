@@ -492,11 +492,8 @@
     <string name="audio_record_view_content_description" msgid="29401157183728655">"آڈیو ریکارڈ کرنے کیلئے ٹچ کریں اور پکڑ کر رکھیں"</string>
     <string name="widget_new_conversation_content_description" msgid="4214201569175733579">"نئی گفتگو شروع کریں"</string>
     <string name="widget_title_content_description" msgid="5802836840910466231">"پیغام رسانی"</string>
-    <string name="widget_conversation_list_name" msgid="4005037639000611925">"پیغام رسانی کی فہرست"</string>
-    <string name="widget_conversation_name" msgid="3900606239571892871">"پیغام رسانی"</string>
-    <string name="widget_new_message_content_description" msgid="2706347689522691188">"نیا پیغام"</string>
-    <string name="widget_conversation_list_content_description" msgid="4137121313374868821">"گفتگو کی فہرست"</string>
-    <string name="loading_conversations" msgid="2890879017729068514">"گفتگوئیں لوڈ ہو رہی ہیں"</string>
+<string name="widget_new_message_content_description" msgid="2706347689522691188">"نیا پیغام"</string>
+<string name="loading_conversations" msgid="2890879017729068514">"گفتگوئیں لوڈ ہو رہی ہیں"</string>
     <string name="loading_messages" msgid="3894765818932489665">"پیغامات لوڈ ہو رہے ہیں"</string>
     <string name="view_more_conversations" msgid="2430542054023217740">"مزید گفتگوئیں دیکھیں"</string>
     <string name="view_more_messages" msgid="6463224009407336178">"مزید پیغامات دیکھیں"</string>

@@ -37,7 +37,6 @@ import com.android.messaging.datamodel.action.DumpDatabaseAction;
 import com.android.messaging.datamodel.action.LogTelephonyDatabaseAction;
 import com.android.messaging.sms.MmsUtils;
 import com.android.messaging.ui.UIIntents;
-import com.android.messaging.ui.debug.DebugSmsMmsFromDumpFileDialogFragment;
 import com.google.common.io.ByteStreams;
 
 import java.io.BufferedInputStream;
@@ -151,28 +150,8 @@ public class DebugUtils {
             }
         });
 
-        arrayAdapter.add(new DebugAction("Load SMS/MMS from dump file") {
-            @Override
-            public void run() {
-                new DebugSmsMmsDumpTask(host,
-                        DebugSmsMmsFromDumpFileDialogFragment.ACTION_LOAD).executeOnThreadPool();
-            }
-        });
 
-        arrayAdapter.add(new DebugAction("Email SMS/MMS dump file") {
-            @Override
-            public void run() {
-                new DebugSmsMmsDumpTask(host,
-                        DebugSmsMmsFromDumpFileDialogFragment.ACTION_EMAIL).executeOnThreadPool();
-            }
-        });
 
-        arrayAdapter.add(new DebugAction("MMS Config...") {
-            @Override
-            public void run() {
-                UIIntents.get().launchDebugMmsConfigActivity(host);
-            }
-        });
 
         arrayAdapter.add(new DebugAction(sDebugClassZeroSms ? "Turn off Class 0 sms test" :
                 "Turn on Class Zero test") {
@@ -198,46 +177,6 @@ public class DebugUtils {
         });
 
         builder.create().show();
-    }
-
-    /**
-     * Task to list all the dump files and perform an action on it
-     */
-    private static class DebugSmsMmsDumpTask extends SafeAsyncTask<Void, Void, String[]> {
-        private final String mAction;
-        private final Activity mHost;
-
-        public DebugSmsMmsDumpTask(final Activity host, final String action) {
-            mHost = host;
-            mAction = action;
-        }
-
-        @Override
-        protected void onPostExecute(final String[] result) {
-            if (result == null || result.length < 1) {
-                return;
-            }
-            final FragmentManager fragmentManager = mHost.getFragmentManager();
-            final FragmentTransaction ft = fragmentManager.beginTransaction();
-            final DebugSmsMmsFromDumpFileDialogFragment dialog =
-                    DebugSmsMmsFromDumpFileDialogFragment.newInstance(result, mAction);
-            dialog.show(fragmentManager, ""/*tag*/);
-        }
-
-        @Override
-        protected String[] doInBackgroundTimed(final Void... params) {
-            final File dir = DebugUtils.getDebugFilesDir();
-            return dir.list(new FilenameFilter() {
-                @Override
-                public boolean accept(final File dir, final String filename) {
-                    return filename != null
-                            && ((mAction == DebugSmsMmsFromDumpFileDialogFragment.ACTION_EMAIL
-                            && filename.equals(DumpDatabaseAction.DUMP_NAME))
-                            || filename.startsWith(MmsUtils.MMS_DUMP_PREFIX)
-                            || filename.startsWith(MmsUtils.SMS_DUMP_PREFIX));
-                }
-            });
-        }
     }
 
     /**

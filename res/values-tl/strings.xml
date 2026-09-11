@@ -492,11 +492,8 @@
     <string name="audio_record_view_content_description" msgid="29401157183728655">"Pindutin nang matagal upang i-record ang audio"</string>
     <string name="widget_new_conversation_content_description" msgid="4214201569175733579">"Magsimula ng bagong pag-uusap"</string>
     <string name="widget_title_content_description" msgid="5802836840910466231">"Pagmemensahe"</string>
-    <string name="widget_conversation_list_name" msgid="4005037639000611925">"Listahan ng Pagmemensahe"</string>
-    <string name="widget_conversation_name" msgid="3900606239571892871">"Pagmemensahe"</string>
-    <string name="widget_new_message_content_description" msgid="2706347689522691188">"Bagong mensahe"</string>
-    <string name="widget_conversation_list_content_description" msgid="4137121313374868821">"Listahan ng pag-uusap"</string>
-    <string name="loading_conversations" msgid="2890879017729068514">"Nilo-load ang mga pag-uusap"</string>
+<string name="widget_new_message_content_description" msgid="2706347689522691188">"Bagong mensahe"</string>
+<string name="loading_conversations" msgid="2890879017729068514">"Nilo-load ang mga pag-uusap"</string>
     <string name="loading_messages" msgid="3894765818932489665">"Nilo-load ang mga mensahe"</string>
     <string name="view_more_conversations" msgid="2430542054023217740">"Tumingin ng higit pang pag-uusap"</string>
     <string name="view_more_messages" msgid="6463224009407336178">"Tingnan ang higit pang mga mensahe"</string>
